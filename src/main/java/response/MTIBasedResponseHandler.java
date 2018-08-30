@@ -1,20 +1,20 @@
 /**
  * 
  */
-package mvi.upop.response;
+package response;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import mvi.upop.generator.AuthResponseGenerator;
-import mvi.upop.generator.CaptResponseGenerator;
-import mvi.upop.generator.RefundResponseGenerator;
-import mvi.upop.generator.ReversalAuthResponseGenerator;
-import mvi.upop.generator.ReversalSaleResponseGenerator;
-import mvi.upop.generator.SaleResponseGenerator;
-
 import org.apache.log4j.Logger;
 import org.json.JSONObject;
+
+import generator.AuthResponseGenerator;
+import generator.CaptResponseGenerator;
+import generator.RefundResponseGenerator;
+import generator.ReversalAuthResponseGenerator;
+import generator.ReversalSaleResponseGenerator;
+import generator.SaleResponseGenerator;
 
 /**
  * @author Sathish Kumar V

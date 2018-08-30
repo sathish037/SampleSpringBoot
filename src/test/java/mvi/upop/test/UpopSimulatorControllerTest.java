@@ -11,7 +11,7 @@ import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
-import mvi.upop.controller.SampleSimulatorController;
+import controller.SampleSimulatorController;
 
 /**
  * @author Sathish Kumar V

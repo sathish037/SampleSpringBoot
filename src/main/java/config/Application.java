@@ -5,7 +5,7 @@
  * license terms.
  *
  */
-package mvi.upop.config;
+package config;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

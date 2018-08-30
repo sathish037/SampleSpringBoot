@@ -1,7 +1,7 @@
 /**
  * 
  */
-package mvi.upop.controller;
+package controller;
 
 import java.util.ArrayList;
 import java.util.List;

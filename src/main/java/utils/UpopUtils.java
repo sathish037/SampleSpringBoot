@@ -1,7 +1,7 @@
 /**
  * 
  */
-package mvi.upop.utils;
+package utils;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

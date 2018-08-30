@@ -1,7 +1,7 @@
 /**
  * 
  */
-package mvi.upop.config;
+package config;
 
 import java.io.IOException;
 import java.io.InputStream;

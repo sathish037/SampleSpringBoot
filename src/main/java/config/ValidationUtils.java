@@ -1,4 +1,4 @@
-package mvi.upop.config;
+package config;
 
 public class ValidationUtils {
 	

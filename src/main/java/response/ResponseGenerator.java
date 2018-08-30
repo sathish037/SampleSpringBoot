@@ -2,7 +2,7 @@
  * 
  */
 
-package mvi.upop.response;
+package response;
 
 import org.json.JSONObject;
 

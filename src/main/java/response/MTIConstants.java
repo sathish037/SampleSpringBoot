@@ -2,7 +2,7 @@
  * 
  */
 
-package mvi.upop.response;
+package response;
 
 /**
  * @author Sathish Kumar V

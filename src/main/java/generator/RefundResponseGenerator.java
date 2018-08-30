@@ -1,17 +1,17 @@
 /**
  * 
  */
-package mvi.upop.generator;
+package generator;
 
 import org.json.JSONObject;
 
-import mvi.upop.response.ResponseGenerator;
+import response.ResponseGenerator;
 
 /**
  * @author Sathish Kumar V
  *
  */
-public class ReversalSaleResponseGenerator  implements ResponseGenerator{
+public class RefundResponseGenerator implements ResponseGenerator{
 	@Override
 	public JSONObject getResponse(JSONObject request) {
 		// TODO Auto-generated method stub
