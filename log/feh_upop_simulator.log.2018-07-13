@@ -1,0 +1,1096 @@
+2018-07-13 12:09:22,964 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-13 12:09:27,778 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 12:09:27,781 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 12:09:28,259 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 12:09:28,339 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 12:09:28,369 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 12:09:28,382 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 12:09:28,383 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 12:09:28,528 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 12:09:28,528 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 12:09:28,529 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 12:13:52,633 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 12:13:52,634 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713121209300, payCardType=02, preAuthId=145949, queryId=961807131212084665038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=HGiDE7Mb/KVpEe4lAuUflqbyobiMF8hSxCUyGNyyNWrAH3mpbG8HUB3NgC6AALeSo8BjaKr2x04KRtMAbxTEntyZctWtEqhWuIR091zAJwpknN9oFBy+dLVMPLellcbHuuH9l61m8xocRcr8YLGYPnd4IDgKuaaup8Okc03zc/ZqDSBxK8B52n4xCTn0rkw3mHCoS1yT0gZLxKY9Twtqmz18CeydgAHOCul1Q7mxw3oyyVxepK2mval1ogI7boi1IV6gLGz5VyFKJKiIjOG1qxCREiO+ZWt8yaiF2GICqONHkRSE8x/Mxd4caqFGQt/LmkdJrjrUETpV4cVMHixrjw==, traceNo=466503, traceTime=0713121208, txnAmt=2000, txnSubType=01, txnTime=20180713121208, txnType=02, version=5.1.0}
+2018-07-13 12:13:53,625 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20181313 12:13:53.501",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713121209300","signature":"HGiDE7Mb/KVpEe4lAuUflqbyobiMF8hSxCUyGNyyNWrAH3mpbG8HUB3NgC6AALeSo8BjaKr2x04KRtMAbxTEntyZctWtEqhWuIR091zAJwpknN9oFBy+dLVMPLellcbHuuH9l61m8xocRcr8YLGYPnd4IDgKuaaup8Okc03zc/ZqDSBxK8B52n4xCTn0rkw3mHCoS1yT0gZLxKY9Twtqmz18CeydgAHOCul1Q7mxw3oyyVxepK2mval1ogI7boi1IV6gLGz5VyFKJKiIjOG1qxCREiO+ZWt8yaiF2GICqONHkRSE8x/Mxd4caqFGQt/LmkdJrjrUETpV4cVMHixrjw==","traceNo":"466503","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"961807131212084665038","accessType":"1","exchangeRate":"0","traceTime":"0713121208","txnTime":"20180713121208","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145949","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 12:13:53,632 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 12:13:53,725 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 181313::129165
+2018-07-13 12:14:01,053 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 12:13:54.512","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713121208173424","netsMidIndicator":"I","netsTxnRef":"20180713121209300","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 12:12:08.173","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEyMTIwODE3MzQyNCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTIxMjA5MzAwIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMjoxMjowOC4xNzMiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI0NjY1MDMiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiI3OTM0NDU3MjYwNTgxMDE3OSIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDEyOjEyOjA5Ljk4MiIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjIwMDB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"79344572605810179","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"GNhbXHxP8QWxpuP3osWgD7NTgaZGGI/dECobmHvVr1Q=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 12:30:59,706 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 12:30:59,707 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713122847301, payCardType=02, preAuthId=145955, queryId=651807131228464719038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=GLeXdfM3ki12FKdp1kiQnRNjWmO2ZRUV9UryE8G+a4gem9rgg+cHh47OS/R1tgYji/bIfOSN+gCN7FUFo+mrja2OBlDiL2BF2ZGyG6pCvyqSH2gGrtqrZ3hw3z+Cr9YW1s5tnd++66/z+HNXowoPK8no3TC8VmvgsaHS2grcfTKzjYyVs4SPk/efbjw6Oy0er3WZ+YwpdVK33lAD+uskXkJR1Iu0pp3+Yzth85PfHNqS6kzTcXVnxr01QUH35a1/QbMX0eGm/OmZuHkl/LZm93tRQ4HJmL5+mvliUwxpa4qXAG9Ylh+v369VLen3wnKSAS/SgwKU5I1ZZMsH0DjWug==, traceNo=471903, traceTime=0713122846, txnAmt=2000, txnSubType=01, txnTime=20180713122846, txnType=02, version=5.1.0}
+2018-07-13 12:30:59,751 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20183013 12:30:59.750",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713122847301","signature":"GLeXdfM3ki12FKdp1kiQnRNjWmO2ZRUV9UryE8G+a4gem9rgg+cHh47OS/R1tgYji/bIfOSN+gCN7FUFo+mrja2OBlDiL2BF2ZGyG6pCvyqSH2gGrtqrZ3hw3z+Cr9YW1s5tnd++66/z+HNXowoPK8no3TC8VmvgsaHS2grcfTKzjYyVs4SPk/efbjw6Oy0er3WZ+YwpdVK33lAD+uskXkJR1Iu0pp3+Yzth85PfHNqS6kzTcXVnxr01QUH35a1/QbMX0eGm/OmZuHkl/LZm93tRQ4HJmL5+mvliUwxpa4qXAG9Ylh+v369VLen3wnKSAS/SgwKU5I1ZZMsH0DjWug==","traceNo":"471903","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"651807131228464719038","accessType":"1","exchangeRate":"0","traceTime":"0713122846","txnTime":"20180713122846","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145955","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 12:30:59,752 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 12:30:59,794 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 183013::701089
+2018-07-13 12:31:00,832 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 12:31:00.034","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713122846992426","netsMidIndicator":"I","netsTxnRef":"20180713122847301","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 12:28:46.992","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEyMjg0Njk5MjQyNiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTIyODQ3MzAxIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMjoyODo0Ni45OTIiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNDcxOTAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNTI5MjgzMTY1MDE5NDgxNzQiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxMjoyODo0Ny4xNjIiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"52928316501948174","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"DoNQRkkC0o8mntpTZ9w3qxqMvhfCr8b6nx2AzFix9v4=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 12:32:59,863 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 12:32:59,864 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713123213302, payCardType=02, preAuthId=145958, queryId=251807131232134831028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=qPCecvCEYNP0lT9+LTDdHsVsqyBvne7IJcaGosMQUwfH73eXugTejVz0wKTxH9YVAqOy1OGEtdFjO8VKuU0AIT/0TwIMeXTvgSwjApY2380IlJVAkdaBHpfZDnm/Yhi8aMSZq7SpZaEmaqthV+MnF6U2fc818kCGp2fnckWN7KoBK2uNaT3ELWEq39j4ELVl9TS+UZQu9n/+M4DTR2u4ppqHqXSL7pkJ8U1COKeWfFyNkNY4IX05fJNBByFKYEyVW+ipL8Av18SqMO8BPOBS8DFvTgEdVVohMaVaD24+tKXIX5XPXeysCTNeH6VtFe65sVQ4CfLnbCc4v6N+TAU1FA==, traceNo=483102, traceTime=0713123213, txnAmt=2000, txnSubType=01, txnTime=20180713123213, txnType=02, version=5.1.0}
+2018-07-13 12:32:59,906 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20183213 12:32:59.905",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713123213302","signature":"qPCecvCEYNP0lT9+LTDdHsVsqyBvne7IJcaGosMQUwfH73eXugTejVz0wKTxH9YVAqOy1OGEtdFjO8VKuU0AIT/0TwIMeXTvgSwjApY2380IlJVAkdaBHpfZDnm/Yhi8aMSZq7SpZaEmaqthV+MnF6U2fc818kCGp2fnckWN7KoBK2uNaT3ELWEq39j4ELVl9TS+UZQu9n/+M4DTR2u4ppqHqXSL7pkJ8U1COKeWfFyNkNY4IX05fJNBByFKYEyVW+ipL8Av18SqMO8BPOBS8DFvTgEdVVohMaVaD24+tKXIX5XPXeysCTNeH6VtFe65sVQ4CfLnbCc4v6N+TAU1FA==","traceNo":"483102","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"251807131232134831028","accessType":"1","exchangeRate":"0","traceTime":"0713123213","txnTime":"20180713123213","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145958","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 12:32:59,907 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 12:32:59,947 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 183213::654500
+2018-07-13 12:33:00,424 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 12:33:00.085","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713123213060428","netsMidIndicator":"I","netsTxnRef":"20180713123213302","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 12:32:13.060","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEyMzIxMzA2MDQyOCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTIzMjEzMzAyIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMjozMjoxMy4wNjAiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNDgzMTAyIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiODM2MjQ3ODI2ODg3ODUxOTAiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxMjozMjoxMy4yMTYiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"83624782688785190","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"oj+dJMumXUHzD40axXYC5gmRMDhdrSJmHl00bSc0ivk=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 12:41:41,275 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 12:41:41,276 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713123654303, payCardType=02, preAuthId=145960, queryId=581807131236544692038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=sf148lgYmmaRGwt/W1Oufvl/jk4R9dq7Ei5PlpldXr5lUDWiOf7gDPjOxExgxw7Drpu7LQK6UzQlaqQI0X/l3E90Dt4hHj+9naynIIj3PGWjYEwFZOeFCmSEIUdOPHgpiOit2+IvfXjyK2kA0XfcsJutyP4OGYZte3OWx66M7mcQvcf7OCyGjMjbi5XDUxhBahZ26rg8f4R8MM10/5JIwwKFO0nA9+uxbLlnzUILN5gRtTbkEnoOHd1MwOmBscSeRu92S8p346VyIR+g91/GMpznRn98LOlDDvA8SMNK4e8YDZgr8yTMvYcdcknaP+KZNw7jY1/d+3jG3JHzp/MKHg==, traceNo=469203, traceTime=0713123654, txnAmt=2000, txnSubType=01, txnTime=20180713123654, txnType=02, version=5.1.0}
+2018-07-13 12:41:41,318 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184113 12:41:41.317",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713123654303","signature":"sf148lgYmmaRGwt/W1Oufvl/jk4R9dq7Ei5PlpldXr5lUDWiOf7gDPjOxExgxw7Drpu7LQK6UzQlaqQI0X/l3E90Dt4hHj+9naynIIj3PGWjYEwFZOeFCmSEIUdOPHgpiOit2+IvfXjyK2kA0XfcsJutyP4OGYZte3OWx66M7mcQvcf7OCyGjMjbi5XDUxhBahZ26rg8f4R8MM10/5JIwwKFO0nA9+uxbLlnzUILN5gRtTbkEnoOHd1MwOmBscSeRu92S8p346VyIR+g91/GMpznRn98LOlDDvA8SMNK4e8YDZgr8yTMvYcdcknaP+KZNw7jY1/d+3jG3JHzp/MKHg==","traceNo":"469203","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"581807131236544692038","accessType":"1","exchangeRate":"0","traceTime":"0713123654","txnTime":"20180713123654","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145960","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 12:41:41,318 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 12:41:41,359 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 184113::876285
+2018-07-13 12:41:42,003 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 12:41:41.556","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713123654433430","netsMidIndicator":"I","netsTxnRef":"20180713123654303","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 12:36:54.433","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEyMzY1NDQzMzQzMCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTIzNjU0MzAzIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMjozNjo1NC40MzMiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI0NjkyMDMiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiIyNTUzNTA5MzkyOTE4OTQ4MyIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDEyOjM2OjU0LjU3NyIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjIwMDB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"25535093929189483","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"/TjPlw/fg4JTUcH3dLaKfY70e4KtG47Ks74NYNmFpkg=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 12:47:37,803 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 12:47:37,804 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713124111304, payCardType=02, preAuthId=145962, queryId=471807131241104831028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=Ud4R6AV3FC1YFil9AYdUBKLsjrP1wr8AJ6Hm9B5szVDyizRuUh5fZds5DDPHmGd2EZztLCEoRA+4R63H+++3FrKJ8PejdmW7GUIMewg/FxYjfYF5xkaj3yAHX78lJsocCLeVEdLH3+Huz4JUMRyNXOxYtIWFpePmwSxyXsSpFoA/C90BfUePlB5lZDUYTQ7yBP8c/Y23HqV8z1PsOuK6xR6qljQzKyCEB0CRPTv91InbRuLeI8BB71a8Jnd+rOR64wZqRuNvOyHbISd78zxROmtI3pQVuoQZPKxbYgWB/KgZ5tC1q5g7N0pdk84qL9XGHmyLKqj88YXIvx+g6Mo3mQ==, traceNo=483102, traceTime=0713124110, txnAmt=2000, txnSubType=01, txnTime=20180713124110, txnType=02, version=5.1.0}
+2018-07-13 12:47:37,844 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184713 12:47:37.844",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713124111304","signature":"Ud4R6AV3FC1YFil9AYdUBKLsjrP1wr8AJ6Hm9B5szVDyizRuUh5fZds5DDPHmGd2EZztLCEoRA+4R63H+++3FrKJ8PejdmW7GUIMewg/FxYjfYF5xkaj3yAHX78lJsocCLeVEdLH3+Huz4JUMRyNXOxYtIWFpePmwSxyXsSpFoA/C90BfUePlB5lZDUYTQ7yBP8c/Y23HqV8z1PsOuK6xR6qljQzKyCEB0CRPTv91InbRuLeI8BB71a8Jnd+rOR64wZqRuNvOyHbISd78zxROmtI3pQVuoQZPKxbYgWB/KgZ5tC1q5g7N0pdk84qL9XGHmyLKqj88YXIvx+g6Mo3mQ==","traceNo":"483102","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"471807131241104831028","accessType":"1","exchangeRate":"0","traceTime":"0713124110","txnTime":"20180713124110","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145962","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 12:47:37,845 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 12:47:37,887 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 184713::041797
+2018-07-13 12:48:07,944 # ERROR # UpopTxnEndMsgController       : Exception ocurred.
+java.lang.NullPointerException
+	at mvi.upop.controller.UpopMvcController.constructTxnEndMsg(UpopMvcController.java:265)
+	at mvi.upop.controller.UpopMvcController.acpFrontUrlHandler(UpopMvcController.java:222)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:114)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:89)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:107)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-07-13 13:11:14,431 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:11:14,432 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713131025305, payCardType=02, preAuthId=145971, queryId=621807131310254831038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=kcXB3Dy3T8DZjMdGc3hu5vdOwczNOE2djRz1CbSOlIscWuzb7kz6WZ0456jC86IOQPaXSItSrOC+OCLM9NtcRieyF2lIrnQ4tqnS/CSgflNeTBXJifUwaHXBvNl/C2pZuUyDmcveFzsZ4ygEeE7DKYqwI1itbysCT3SAGZphE1TT2P+PuZKXGkI+g5Exj+SOnD+8TiDD/w2+ip4GE7xSPzLWCPHWFfdwjsOSECyL1Aq+PEX3n3LmvUPP+ysfs9pL48cmGb1O4Feb8eb0A+9MCeonn+A+6RdRQR/rsswUfIh3DLZnkb+RBxKw9AThsb+UQmCRaMJ6Sascoagk3hVYUA==, traceNo=483103, traceTime=0713131025, txnAmt=2000, txnSubType=01, txnTime=20180713131025, txnType=02, version=5.1.0}
+2018-07-13 13:11:14,475 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20181113 13:11:14.475",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713131025305","signature":"kcXB3Dy3T8DZjMdGc3hu5vdOwczNOE2djRz1CbSOlIscWuzb7kz6WZ0456jC86IOQPaXSItSrOC+OCLM9NtcRieyF2lIrnQ4tqnS/CSgflNeTBXJifUwaHXBvNl/C2pZuUyDmcveFzsZ4ygEeE7DKYqwI1itbysCT3SAGZphE1TT2P+PuZKXGkI+g5Exj+SOnD+8TiDD/w2+ip4GE7xSPzLWCPHWFfdwjsOSECyL1Aq+PEX3n3LmvUPP+ysfs9pL48cmGb1O4Feb8eb0A+9MCeonn+A+6RdRQR/rsswUfIh3DLZnkb+RBxKw9AThsb+UQmCRaMJ6Sascoagk3hVYUA==","traceNo":"483103","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"621807131310254831038","accessType":"1","exchangeRate":"0","traceTime":"0713131025","txnTime":"20180713131025","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145971","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:11:14,476 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:11:14,517 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 181113::690258
+2018-07-13 13:11:15,018 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 13:11:14.655","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713131025592434","netsMidIndicator":"I","netsTxnRef":"20180713131025305","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 13:10:25.592","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEzMTAyNTU5MjQzNCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTMxMDI1MzA1IiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMzoxMDoyNS41OTIiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNDgzMTAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiMTgwODEyNDMxNjA4MTk0NTIiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxMzoxMDoyNS44NjMiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"18081243160819452","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"e7km89VqoSPRCZ6OYiATOJLkNvJRamqSrFgRIC+9reE=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 13:34:18,754 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-13 13:34:23,539 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 13:34:23,539 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 13:34:24,051 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 13:34:24,169 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 13:34:24,171 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 13:34:24,181 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 13:34:24,181 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 13:34:24,335 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 13:34:24,336 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 13:34:24,336 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 13:35:26,399 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:35:26,403 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713133442306, payCardType=02, preAuthId=145983, queryId=581807131334414907038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=QzTXMag13GWSMn67z9VH6UJq+1MbT39UcqKVHOJ3CwkE8r711TFQZbTHb5THGVTv61PxNFrvkWVkyLg4I42WL8LmgLx8BcY9KO2T0EGdYWqAIslYONpbztVS86yhRmlftzj++dmUDaX3zzvGOzGrGw/97yrKTvLAxUe1EwOiVk+cHMKC4OBURSxdLOOOebgR8Mr1Kanfsjcqz8sCbVPeWX0RSMlVR2pzzynUYSVo0q4PfEItTuSFpDJKG2EpZjFOPnlRGAdnChzKW9zzqgB2QP/IoJ/VHA0N6Imf/2/ajU+d5ISV8JJ9pm2Tbs7niRPkz949GFbVtewvk2J0BZjZeg==, traceNo=490703, traceTime=0713133441, txnAmt=2000, txnSubType=01, txnTime=20180713133441, txnType=02, version=5.1.0}
+2018-07-13 13:35:27,259 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20183513 13:35:27.172",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713133442306","signature":"QzTXMag13GWSMn67z9VH6UJq+1MbT39UcqKVHOJ3CwkE8r711TFQZbTHb5THGVTv61PxNFrvkWVkyLg4I42WL8LmgLx8BcY9KO2T0EGdYWqAIslYONpbztVS86yhRmlftzj++dmUDaX3zzvGOzGrGw/97yrKTvLAxUe1EwOiVk+cHMKC4OBURSxdLOOOebgR8Mr1Kanfsjcqz8sCbVPeWX0RSMlVR2pzzynUYSVo0q4PfEItTuSFpDJKG2EpZjFOPnlRGAdnChzKW9zzqgB2QP/IoJ/VHA0N6Imf/2/ajU+d5ISV8JJ9pm2Tbs7niRPkz949GFbVtewvk2J0BZjZeg==","traceNo":"490703","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"581807131334414907038","accessType":"1","exchangeRate":"0","traceTime":"0713133441","txnTime":"20180713133441","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145983","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:35:27,269 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:35:27,385 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 183513::899017
+2018-07-13 13:35:32,558 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 13:35:27.527","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713133441965436","netsMidIndicator":"I","netsTxnRef":"20180713133442306","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 13:34:41.965","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEzMzQ0MTk2NTQzNiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTMzNDQyMzA2IiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMzozNDo0MS45NjUiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNDkwNzAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiMzM3NDE2OTgzMjQyMTE4NDIiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxMzozNDo0Mi4xMzUiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"33741698324211842","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"1ijzVrP8rgEVCF/4aCWOmQ2UfdtpUXIIie0JaTxF9Nk=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 13:40:55,534 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:40:55,535 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713134004307, payCardType=02, preAuthId=145987, queryId=081807131340035061028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=C0tt8w3EEWjE1qiEGAe4la0cfKSmA3DJGOBzmgsle2DEY15UYfcFBRt3QQH/JERWUCucD7nHdA3JwVBgAg9A/rxWrzAlpIO0noZtkHySOuLmISiV4P9VOz+/3hWpQWyrljkUc96IDNRaBimZ4ySy2W4W25Z64jPX8BCqQnDCywrcrZqNhHz6tXte4AQ5Y8X5JQfHWJjlvjEP6zZfddGIS5eFJqiT9LUkTMb7vSedmaATHNrXryZe1JWr50P2E4CvIX/mbGdFjwKZK9vcSQiRv7rkAYAkLXS3CmYWDkbqiXK6UKgy3vfPxWSQ/6H4jiSAEC+t3691fP/zcqvZzTXfsA==, traceNo=506102, traceTime=0713134003, txnAmt=2000, txnSubType=01, txnTime=20180713134003, txnType=02, version=5.1.0}
+2018-07-13 13:40:55,578 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184013 13:40:55.577",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713134004307","signature":"C0tt8w3EEWjE1qiEGAe4la0cfKSmA3DJGOBzmgsle2DEY15UYfcFBRt3QQH/JERWUCucD7nHdA3JwVBgAg9A/rxWrzAlpIO0noZtkHySOuLmISiV4P9VOz+/3hWpQWyrljkUc96IDNRaBimZ4ySy2W4W25Z64jPX8BCqQnDCywrcrZqNhHz6tXte4AQ5Y8X5JQfHWJjlvjEP6zZfddGIS5eFJqiT9LUkTMb7vSedmaATHNrXryZe1JWr50P2E4CvIX/mbGdFjwKZK9vcSQiRv7rkAYAkLXS3CmYWDkbqiXK6UKgy3vfPxWSQ/6H4jiSAEC+t3691fP/zcqvZzTXfsA==","traceNo":"506102","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"081807131340035061028","accessType":"1","exchangeRate":"0","traceTime":"0713134003","txnTime":"20180713134003","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145987","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:40:55,579 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:40:55,622 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 184013::590114
+2018-07-13 13:40:56,192 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 13:40:55.812","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713134003980438","netsMidIndicator":"I","netsTxnRef":"20180713134004307","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 13:40:03.981","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEzNDAwMzk4MDQzOCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTM0MDA0MzA3IiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMzo0MDowMy45ODEiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNTA2MTAyIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiODA2OTg4MTQ2OTE2NjMzMzAiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxMzo0MDowNC4xOTciLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"80698814691663330","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"wIcP5vQ3hBQP+E1Y6VQ+n46YxLQqYVITXLta9Cvrr/Y=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 13:44:17,954 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:44:17,956 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713134329308, payCardType=02, preAuthId=145991, queryId=161807131343295010028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=VGT+qSCCYuWIBJ8gVbfAmO0LnG7ekb0kQfhwAh/F96NZDy7ZH1qtkfTEoPOe9ztwMsm5om++Gl+hcn3DCKtgyBwF+tylj2pnlB00gbVrrYpUfDT3JrJQUVBVpF25kE+yWg5Fsg/cCdG44xIPDGKRmUuTPP86eC6WfiPqfqYSpL6+iuQ9R9bOhk/Lo48VfebVR/dje8hUTZtzKlaCW3hR/9pxpdwsZ1W0c9X/mvameirYMqYwPXvE10iw/Ogre/ubpOwWbUR9gm0xUrOCZvYsXhAiHk9GHfLe05PfqF1q9944X7oYk1KEKPc4RVB4/wfNBItdveELa69Vg+ja774jMA==, traceNo=501002, traceTime=0713134329, txnAmt=2000, txnSubType=01, txnTime=20180713134329, txnType=02, version=5.1.0}
+2018-07-13 13:44:18,002 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184413 13:44:18.000",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713134329308","signature":"VGT+qSCCYuWIBJ8gVbfAmO0LnG7ekb0kQfhwAh/F96NZDy7ZH1qtkfTEoPOe9ztwMsm5om++Gl+hcn3DCKtgyBwF+tylj2pnlB00gbVrrYpUfDT3JrJQUVBVpF25kE+yWg5Fsg/cCdG44xIPDGKRmUuTPP86eC6WfiPqfqYSpL6+iuQ9R9bOhk/Lo48VfebVR/dje8hUTZtzKlaCW3hR/9pxpdwsZ1W0c9X/mvameirYMqYwPXvE10iw/Ogre/ubpOwWbUR9gm0xUrOCZvYsXhAiHk9GHfLe05PfqF1q9944X7oYk1KEKPc4RVB4/wfNBItdveELa69Vg+ja774jMA==","traceNo":"501002","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"161807131343295010028","accessType":"1","exchangeRate":"0","traceTime":"0713134329","txnTime":"20180713134329","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145991","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:44:18,003 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:44:18,046 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 184413::309515
+2018-07-13 13:44:18,529 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 13:44:18.168","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713134329387440","netsMidIndicator":"I","netsTxnRef":"20180713134329308","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 13:43:29.387","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEzNDMyOTM4NzQ0MCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTM0MzI5MzA4IiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMzo0MzoyOS4zODciLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNTAxMDAyIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiMzY0MjI5NTQwNzgzNjMwNjQiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxMzo0MzoyOS41ODUiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"36422954078363064","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"SqzylvkYBx4ZMINgx+wld9+fEvD3CqHfYizy1S1edpQ=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 13:45:51,752 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:45:51,752 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713134503309, payCardType=02, preAuthId=145992, queryId=501807131345034961038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=M6GhJqlHEtICLzJeGgwr6WcyPYoztPZR4tmxcBR7jW1935IWQ9jz5IVjdTqNCWkI382eptDz2tqm6YDpw7srNws7fukJNAJz9gLL1G9OOqu3Bd2b6TLgDtyxg7idx7yCvwnUCADPYLRlKhTqRNwWWwfTNv+UEbdl3DNT9EnMACELibTrvI+zAqtnMiHHCtEDBu2VkfqG3CMlzAEX3jlCGLd7s4mABNabvHimNfkAyYy/F8ORIUqGEuXF6Js5UGXY9hybC33Eg5QqIVi3NQRN5UTwEVAyjaRlsTWvaJ5yhlgD9uH17uexcb8Bs/+ptNSWFslBE9CzWGPgZQ6QHVpfbQ==, traceNo=496103, traceTime=0713134503, txnAmt=2000, txnSubType=01, txnTime=20180713134503, txnType=02, version=5.1.0}
+2018-07-13 13:45:51,793 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184513 13:45:51.792",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713134503309","signature":"M6GhJqlHEtICLzJeGgwr6WcyPYoztPZR4tmxcBR7jW1935IWQ9jz5IVjdTqNCWkI382eptDz2tqm6YDpw7srNws7fukJNAJz9gLL1G9OOqu3Bd2b6TLgDtyxg7idx7yCvwnUCADPYLRlKhTqRNwWWwfTNv+UEbdl3DNT9EnMACELibTrvI+zAqtnMiHHCtEDBu2VkfqG3CMlzAEX3jlCGLd7s4mABNabvHimNfkAyYy/F8ORIUqGEuXF6Js5UGXY9hybC33Eg5QqIVi3NQRN5UTwEVAyjaRlsTWvaJ5yhlgD9uH17uexcb8Bs/+ptNSWFslBE9CzWGPgZQ6QHVpfbQ==","traceNo":"496103","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"501807131345034961038","accessType":"1","exchangeRate":"0","traceTime":"0713134503","txnTime":"20180713134503","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145992","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:45:51,793 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:45:51,834 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 184513::689932
+2018-07-13 13:45:52,336 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 13:45:51.956","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713134503492442","netsMidIndicator":"I","netsTxnRef":"20180713134503309","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 13:45:03.492","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEzNDUwMzQ5MjQ0MiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTM0NTAzMzA5IiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMzo0NTowMy40OTIiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNDk2MTAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNzIzOTcyNTE5Mzc0OTE0OTYiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxMzo0NTowMy42NTAiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"72397251937491496","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"cJ8HdTlXkmrVGsyR2Li08rkqpy06wPV9NSToZJyfmPY=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 13:50:56,255 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:50:56,256 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713135004310, payCardType=02, preAuthId=145996, queryId=081807131350045038028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=nWPFUNmnbOMyfs+z6dy5j9oBQnqjVllpqZAEfRCKhHrVdLSm4Luzq9KN8PMUTGRYxudiCHwBJriWm4x9YRZXWqPw4pXW5nFQhTtINoQwoGuhMzkRu75rEAmLSSSP0LvT4iAU/AHiJB6osPsJx2nqKpGHQqCPMW9C5+2k+VB2eK53LiXrNbTH9bzjNmXnsEy9hWbZalUpYalu08Jj2f4O0nXk3aeN0SDwrecy+5lRt6JRZZgoyfQVPNWX8KX/D+fCBDxGmuVK6EYSgJm8oBHwlKghFAh3PkBuF4YCdKORg/0uz2BN2mjy3N1LDHIGqx2KO+ivEHFy52XhBkH7prvLGA==, traceNo=503802, traceTime=0713135004, txnAmt=2000, txnSubType=01, txnTime=20180713135004, txnType=02, version=5.1.0}
+2018-07-13 13:50:56,300 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20185013 13:50:56.299",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713135004310","signature":"nWPFUNmnbOMyfs+z6dy5j9oBQnqjVllpqZAEfRCKhHrVdLSm4Luzq9KN8PMUTGRYxudiCHwBJriWm4x9YRZXWqPw4pXW5nFQhTtINoQwoGuhMzkRu75rEAmLSSSP0LvT4iAU/AHiJB6osPsJx2nqKpGHQqCPMW9C5+2k+VB2eK53LiXrNbTH9bzjNmXnsEy9hWbZalUpYalu08Jj2f4O0nXk3aeN0SDwrecy+5lRt6JRZZgoyfQVPNWX8KX/D+fCBDxGmuVK6EYSgJm8oBHwlKghFAh3PkBuF4YCdKORg/0uz2BN2mjy3N1LDHIGqx2KO+ivEHFy52XhBkH7prvLGA==","traceNo":"503802","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"081807131350045038028","accessType":"1","exchangeRate":"0","traceTime":"0713135004","txnTime":"20180713135004","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"145996","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:50:56,300 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:50:56,342 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 185013::621093
+2018-07-13 13:50:59,172 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"TxnErr","msgCreateDtm":"20180713 13:50:59.093","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"er01.01"},"msg":{"netsTxnRef":"20180713135004310","paymentMode":"UP","txnAmount":2000,"currencyCode":"702","merchantTxnDtm":"20180713 13:50:04.000","version":"5.1.0","bankId":"34710702","bankRefCode":"503802","bankRemarks":"success","bankStatus":"00","rawMsg":"ew0KICAgInN3SGRyIjogDQoJCXsic3ZjQ2hubCI6IkZFSCIsIA0KCQkic3ZjVHlwZSI6IkNOUCIsDQoJCSJtc2dGbXQiOiJzb2FwaSIsDQoJCSJtc2dGbXRWZXIiOiIyLjAwIiwNCgkJIm1zZ1R5cGUiOiJVcG9wRlR4bkVuZEIyUyIsDQoJCSJtc2dTdWJUeXBlIjoiKiIsDQoJCSJtc2dDcmVhdGVEdG0iOiIyMDE4NTAxMyAxMzo1MDo1Ni4yOTkiLA0KCQkibXNnU2VuZGVyIjoiRkUwMSIsDQoJCSJtc2dSZWZJZCI6Ik1EeW5EZXZNUSIsDQoJCSJtc2dTdWJGbXQiOiJzb2FwaV92MiIsDQoJCSJtc2dBY3Rpb25Db2RlIjoidXAwMS4wMyINCiAgICAgfSwNCgkibXNnIjoNCgkJeyANCgkJInBheW1lbnRNb2RlIjoiVVAiLA0KCQkiaXBBZGRyZXNzIjoiaXBBZGRyZXNzIiwNCgkJImh0bWxQb3N0RGF0YSI6eyJiaXpUeXBlIjoiMDAwMjAxIiwib3JkZXJJZCI6IjIwMTgwNzEzMTM1MDA0MzEwIiwic2lnbmF0dXJlIjoibldQRlVObW5iT015ZnMrejZkeTVqOW9CUW5xalZsbHBxWkFFZlJDS2hIclZkTFNtNEx1enE5S044UE1VVEdSWXh1ZGlDSHdCSnJpV200eDlZUlpYV3FQdzRwWFc1bkZRaFR0SU5vUXdvR3VoTXprUnU3NXJFQW1MU1NTUDBMdlQ0aUFVL0FIaUpCNm9zUHNKeDJucUtwR0hRcUNQTVc5QzUrMmsrVkIyZUs1M0xpWHJOYlRIOWJ6ak5tWG5zRXk5aFdiWmFsVXBZYWx1MDhKajJmNE8wblhrM2FlTjBTRHdyZWN5KzVsUnQ2SlJaWmdveWZRVlBOV1g4S1gvRCtmQ0JEeEdtdVZLNkVZU2dKbThvQkh3bEtnaEZBaDNQa0J1RjRZQ2RLT1JnLzB1ejJCTjJtankzTjFMREhJR3F4MktPK2l2RUhGeTUyWGhCa0g3cHJ2TEdBPT0iLCJ0cmFjZU5vIjoiNTAzODAyIiwic2V0dGxlQW10IjoiMjAwMCIsInNldHRsZUN1cnJlbmN5Q29kZSI6IjcwMiIsInNldHRsZURhdGUiOiIwNzEzIiwidHhuVHlwZSI6IjAyIiwicXVlcnlJZCI6IjA4MTgwNzEzMTM1MDA0NTAzODAyOCIsImFjY2Vzc1R5cGUiOiIxIiwiZXhjaGFuZ2VSYXRlIjoiMCIsInRyYWNlVGltZSI6IjA3MTMxMzUwMDQiLCJ0eG5UaW1lIjoiMjAxODA3MTMxMzUwMDQiLCJzaWduUHViS2V5Q2VydCI6Ii0tLS0tQkVHSU4gQ0VSVElGSUNBVEUtLS0tLVxyXG5NSUlFUXpDQ0F5dWdBd0lCQWdJRkVCSkpaVmd3RFFZSktvWklodmNOQVFFRkJRQXdXREVMTUFrR0ExVUVCaE1DXHJcblEwNHhNREF1QmdOVkJBb1RKME5vYVc1aElFWnBibUZ1WTJsaGJDQkRaWEowYVdacFkyRjBhVzl1SUVGMWRHaHZcclxuY21sMGVURVhNQlVHQTFVRUF4TU9RMFpEUVNCVVJWTlVJRTlEUVRFd0hoY05NVGN4TVRBeE1EY3lOREE0V2hjTlxyXG5NakF4TVRBeE1EY3lOREE0V2pCM01Rc3dDUVlEVlFRR0V3SmpiakVTTUJBR0ExVUVDaE1KUTBaRFFTQlBRMEV4XHJcbk1RNHdEQVlEVlFRTEV3VkRWVkJTUVRFVU1CSUdBMVVFQ3hNTFJXNTBaWEp3Y21selpYTXhMakFzQmdOVkJBTVVcclxuSlRBME1VQmFNakF4TnkweE1TMHhRREF3TURRd01EQXdPbE5KUjA1QU1EQXdNREF3TURFd2dnRWlNQTBHQ1NxR1xyXG5TSWIzRFFFQkFRVUFBNElCRHdBd2dnRUtBb0lCQVFERElXTzZBRVNyZyszNEhnYlU5bVNwZ2VmMHNsNmF2cjFkXHJcbmJEL0lqalpZTTYzU29RaTNDWkhaVXlveXpCS29kUnpvd0pyd1htZCtoQ21kY0lmYXZkdmZ3aTZ4K3B0Sk5wOWRcclxuRXRwZkVBbkprKzRxdXJpUUZqMWROaXY2dVA4QVJnbjA3VU1oZ2RZQjdEOGFBMWo3N1lrMVJPeDcrTEZlbzdyWlxyXG5EZGRlMlUxb3BQeGpJcU9QcWlQbm83OEpNWHBGbjdMaUdQWHU3NWJ3WTJyWUlHRUVJbW55cGdpWXVXMXZvOVVPXHJcbkc0N05NV1Ruc0lkeTY4RnF1UFN3NUZLcDVmb0w4MjVHTlgzb0pTWnVpOGQyVURrTUxCYXNmMDZKejBKS3o1QVZcclxuYmxhSStzMjQvaUNmbzhyKzZXYUNzOGU2QkRrYWlqSmtSL2J2UkNRZVFwYlgzVjhXb1RMVkFnTUJBQUdqZ2ZRd1xyXG5nZkV3SHdZRFZSMGpCQmd3Rm9BVXozQ2RZZXVkZkM2NDk4c0NRUGNKbmY0emRJQXdTQVlEVlIwZ0JFRXdQekE5XHJcbkJnaGdnUnlHN3lvQkFUQXhNQzhHQ0NzR0FRVUZCd0lCRmlOb2RIUndPaTh2ZDNkM0xtTm1ZMkV1WTI5dExtTnVcclxuTDNWekwzVnpMVEUwTG1oMGJUQTVCZ05WSFI4RU1qQXdNQzZnTEtBcWhpaG9kSFJ3T2k4dmRXTnliQzVqWm1OaFxyXG5MbU52YlM1amJpOVNVMEV2WTNKc01qUTROekl1WTNKc01Bc0dBMVVkRHdRRUF3SUQ2REFkQmdOVkhRNEVGZ1FVXHJcbm1RUUx5dXFZakVTN3FLTyt6T2t6RWJ2ZEZ3Z3dIUVlEVlIwbEJCWXdGQVlJS3dZQkJRVUhBd0lHQ0NzR0FRVUZcclxuQndNRU1BMEdDU3FHU0liM0RRRUJCUVVBQTRJQkFRQXVqaEJ1T2N1eEErVnpvVUg4NHVvRnQ1YWFCTTN2R2xwV1xyXG5LVk16NkJVc0xiSXBwMWhvNWgrTGFNbnhNczZqZFhYRGgvZHU4WDVTS01hSWRkaUx3N3VqWnkxTGliS3kyallpXHJcbllZZnMzdGJaMGZmQ0tRdHY3OHZDZ0MrSXhVVXVyQUxZNHc1OGZSTExkdTh1OHA5anlSRkhzUUV3U3ErVzUrYlBcclxuTVRoMnc3Y0RkOWgrNktvQ042QU1JMUx5N014UkloQ2JOQkw5YnpheEY5QjVHSzg2QVJZN2l4a3VEQ0VsNFhDRlxyXG5KR3hlb3llOVI0Nk5xWjZBQS9rOTdtSnVuLy9nbVVqU3RtYjlQVVhBNTlmUjVzdUFCNW8vNWxCeVNaOFVYa3JJXHJcbnBwL2lMVDh2SWwxaE5nTGgwR2hzN0RCU3g5OUkrUzNWdVV6akhOeEw2ZkdSaGxpeDdSYjhcclxuLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLSIsInBheUNhcmRUeXBlIjoiMDIiLCJ0eG5TdWJUeXBlIjoiMDEiLCJhY2NObyI6IjYyNTA5NDcwMDAwMDAwMTQiLCJhY3FJbnNDb2RlIjoiMzQ3MTA3MDIiLCJlbmNvZGluZyI6IlVURi04IiwidmVyc2lvbiI6IjUuMS4wIiwicmVzcE1zZyI6InN1Y2Nlc3MiLCJtZXJJZCI6IjgwMjI5MDA0OTAwMDE4MCIsInByZUF1dGhJZCI6IjE0NTk5NiIsImN1cnJlbmN5Q29kZSI6IjcwMiIsInJlc3BDb2RlIjoiMDAiLCJzaWduTWV0aG9kIjoiMDEiLCJ0eG5BbXQiOiIyMDAwIn0NCgkJfQkNCn0=","stageRespCode":"3099-00000","actionCode":"0","emailSendType":"0","netsTxnStatus":"0","netsTxnMsg":"Successful","netsAmountDeducted":0}}
+2018-07-13 13:54:51,966 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:54:51,967 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713135358311, payCardType=02, preAuthId=146000, queryId=671807131353585010038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=oN9dVGfTkVz85TLfU9JdCEDcCuTrNmY7y7ab1UaLY7ScUGw8esxLad9luI3351jCEPj/QrQa4VZ2f8sc1MXXwPUD5K84WL+YdMkU3BK1keQHmnhfOYXOjya/TtLZ/MDoWyNI7WhqVhT4bvFPAeX8CCDKXWXk24pR9DwPn9a7yUan6fp2nH70WonOrewqNjye16O2thaSx5MENZIWZSTuRgwJltI3MjAdyAvDGhBXbYO0W+Z/ezW2s6cBr+boek+AKEpYAhkAzo6b8JeUO2BIiG4s23yXFmYXzWenbjAknuKTyXdKyHAkC1Oxe3iPIVUyWDcgTkUotkLfWUqWrX6ivg==, traceNo=501003, traceTime=0713135358, txnAmt=2000, txnSubType=01, txnTime=20180713135358, txnType=02, version=5.1.0}
+2018-07-13 13:54:52,008 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20185413 13:54:52.007",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713135358311","signature":"oN9dVGfTkVz85TLfU9JdCEDcCuTrNmY7y7ab1UaLY7ScUGw8esxLad9luI3351jCEPj/QrQa4VZ2f8sc1MXXwPUD5K84WL+YdMkU3BK1keQHmnhfOYXOjya/TtLZ/MDoWyNI7WhqVhT4bvFPAeX8CCDKXWXk24pR9DwPn9a7yUan6fp2nH70WonOrewqNjye16O2thaSx5MENZIWZSTuRgwJltI3MjAdyAvDGhBXbYO0W+Z/ezW2s6cBr+boek+AKEpYAhkAzo6b8JeUO2BIiG4s23yXFmYXzWenbjAknuKTyXdKyHAkC1Oxe3iPIVUyWDcgTkUotkLfWUqWrX6ivg==","traceNo":"501003","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"671807131353585010038","accessType":"1","exchangeRate":"0","traceTime":"0713135358","txnTime":"20180713135358","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146000","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:54:52,008 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:54:52,047 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 185413::778717
+2018-07-13 13:54:52,520 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 13:54:52.167","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713135358237446","netsMidIndicator":"I","netsTxnRef":"20180713135358311","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 13:53:58.237","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEzNTM1ODIzNzQ0NiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTM1MzU4MzExIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMzo1Mzo1OC4yMzciLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI1MDEwMDMiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiIzMzQ1ODkxODE0MzMyMzE2MiIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDEzOjUzOjU4LjQ0NCIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"33458918143323162","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"wsVN5eTcXQwW+36weUNoxvmOuiNK50T5q4npK9WdGYs=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 13:57:24,694 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 13:57:24,694 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713135632312, payCardType=02, preAuthId=146008, queryId=671807131356324928038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=CNVG10iOztPYUgsi38GtkMfe4MgMZHdgmQT2VRJ4z01XHmafHgZ0fs3TTnMKuA/GTnvcxeP0ZGeSdnr8HOrXiZ6x7K/uZCXpdCu/Ypm0qPQmcjA8R1adU4vQnZRgZURmVNyITmL0OkaPl4rbhMYk3AxKDXlm8ogD44h5P8kX9mGfmLuM3y3O383aY3R1ulO/eL3wOdc8RRrTL4d3lG7hVKLh8jXFj1OLJwsmelYbkuMNshK5/oOPCfIrggDNqHG2hU8GnXCwj57WrE2iBSkO1qi287gakz8l14ErHkLvwHQYLbenLIvnAVgzJpBuFbIBf5lMTMVGyo7a3kDaVKcS6Q==, traceNo=492803, traceTime=0713135632, txnAmt=2000, txnSubType=01, txnTime=20180713135632, txnType=02, version=5.1.0}
+2018-07-13 13:57:24,739 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20185713 13:57:24.738",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713135632312","signature":"CNVG10iOztPYUgsi38GtkMfe4MgMZHdgmQT2VRJ4z01XHmafHgZ0fs3TTnMKuA/GTnvcxeP0ZGeSdnr8HOrXiZ6x7K/uZCXpdCu/Ypm0qPQmcjA8R1adU4vQnZRgZURmVNyITmL0OkaPl4rbhMYk3AxKDXlm8ogD44h5P8kX9mGfmLuM3y3O383aY3R1ulO/eL3wOdc8RRrTL4d3lG7hVKLh8jXFj1OLJwsmelYbkuMNshK5/oOPCfIrggDNqHG2hU8GnXCwj57WrE2iBSkO1qi287gakz8l14ErHkLvwHQYLbenLIvnAVgzJpBuFbIBf5lMTMVGyo7a3kDaVKcS6Q==","traceNo":"492803","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"671807131356324928038","accessType":"1","exchangeRate":"0","traceTime":"0713135632","txnTime":"20180713135632","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146008","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 13:57:24,739 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 13:57:24,780 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 185713::357369
+2018-07-13 13:57:25,261 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 13:57:24.938","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713135632703448","netsMidIndicator":"I","netsTxnRef":"20180713135632312","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 13:56:32.703","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzEzNTYzMjcwMzQ0OCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTM1NjMyMzEyIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxMzo1NjozMi43MDMiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI0OTI4MDMiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiIxNDI1OTMwMTQ4NTAzOTA5MyIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDEzOjU2OjMyLjkxNSIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjIwMDB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"14259301485039093","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"AHHQQdc0U/iR38Ivd/7vAKY0Bw0f2iqE3v41Bb35r68=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 14:46:07,440 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-13 14:46:14,104 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 14:46:14,104 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 14:46:14,569 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 14:46:14,696 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 14:46:14,698 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 14:46:14,707 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 14:46:14,707 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 14:46:14,892 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 14:46:14,893 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 14:46:14,894 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 14:49:54,893 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 14:49:54,900 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713144842300, payCardType=02, preAuthId=146042, queryId=031807131448415309028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=HIoIIJB1/QJ5NJR6lUtOkpzJuMQrj9OFYOn8nuzuhCSTQT8oJqldy4MU28AdEhpTwjShyxreq5fmuxG7kuSSV5Gg+pn+fSDYWWtTJI7N68EyR3pZrxt/pzPT8i11PCfzfGWZyyOEsc1b1JdkKHVcgyNgH/Djc6CruAppdLF17AsHo+dEONxrKLl7gFod1h5QHtSAAKuCl+EY1EKE0Gc9kaIn0i3jmqtSb1kbjpGSNqiiZxL9X/ANpszUdRKXZ4swkGHn2QzZxFgnxKtBqW4epkG0lmNyM3uDOWwOvOBB371cJG5ijkIQSuqhG1fcVJnralLsaSlnaJCWR0Sf5aF+hw==, traceNo=530902, traceTime=0713144841, txnAmt=2000, txnSubType=01, txnTime=20180713144841, txnType=02, version=5.1.0}
+2018-07-13 14:49:55,533 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184913 14:49:55.476",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713144842300","signature":"HIoIIJB1/QJ5NJR6lUtOkpzJuMQrj9OFYOn8nuzuhCSTQT8oJqldy4MU28AdEhpTwjShyxreq5fmuxG7kuSSV5Gg+pn+fSDYWWtTJI7N68EyR3pZrxt/pzPT8i11PCfzfGWZyyOEsc1b1JdkKHVcgyNgH/Djc6CruAppdLF17AsHo+dEONxrKLl7gFod1h5QHtSAAKuCl+EY1EKE0Gc9kaIn0i3jmqtSb1kbjpGSNqiiZxL9X/ANpszUdRKXZ4swkGHn2QzZxFgnxKtBqW4epkG0lmNyM3uDOWwOvOBB371cJG5ijkIQSuqhG1fcVJnralLsaSlnaJCWR0Sf5aF+hw==","traceNo":"530902","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"031807131448415309028","accessType":"1","exchangeRate":"0","traceTime":"0713144841","txnTime":"20180713144841","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146042","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 14:49:55,540 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 14:49:55,618 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 184913::558746
+2018-07-13 14:50:01,795 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 14:49:55.949","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713144841670450","netsMidIndicator":"I","netsTxnRef":"20180713144842300","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 14:48:41.670","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzE0NDg0MTY3MDQ1MCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTQ0ODQyMzAwIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxNDo0ODo0MS42NzAiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI1MzA5MDIiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiIxMTU4MTU2ODYwNDk0MDU1MSIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDE0OjQ4OjQyLjE2NiIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjIwMDB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"11581568604940551","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"+FKE9D52eoVtQL5eIJcOm+bt6qsNyTc4HBsmEFcFJT0=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 15:03:02,521 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 15:03:02,522 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713150215301, payCardType=02, preAuthId=146053, queryId=101807131502155361028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=tpfYDKGyvGzt7wk4MJ/ZdVTM6jPkRmuA9CG1G3ksHScwtoGg6E5+Jgk7iisS5EOSvbBQQEuShi6mJo5b2E6m/7r9SzMwUF5ldgK4/C6EqlpjbkCBBwtojCNPZrrv8bbiwkWXEFCZKVu50KndbFnNyfim9sPOOi+Yr8hG8Kc8Om+2n95dQqwECyHfvt8Nq7k/8U+OLVfl3Cjxx6wusmvlpKs50XARmi5fFCnhhv1EFHYryrtbXaTQsNhgmEHuj4V6PIHYTd76v/gkP8XE4VFbD5yNYFTt7iwaWGgjIlBMDfw+f9AHo9KcL2w9gtU6V+HaCHhWC+W/6BFbUKvFSffFjg==, traceNo=536102, traceTime=0713150215, txnAmt=2000, txnSubType=01, txnTime=20180713150215, txnType=02, version=5.1.0}
+2018-07-13 15:03:02,565 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20180313 15:03:02.564",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713150215301","signature":"tpfYDKGyvGzt7wk4MJ/ZdVTM6jPkRmuA9CG1G3ksHScwtoGg6E5+Jgk7iisS5EOSvbBQQEuShi6mJo5b2E6m/7r9SzMwUF5ldgK4/C6EqlpjbkCBBwtojCNPZrrv8bbiwkWXEFCZKVu50KndbFnNyfim9sPOOi+Yr8hG8Kc8Om+2n95dQqwECyHfvt8Nq7k/8U+OLVfl3Cjxx6wusmvlpKs50XARmi5fFCnhhv1EFHYryrtbXaTQsNhgmEHuj4V6PIHYTd76v/gkP8XE4VFbD5yNYFTt7iwaWGgjIlBMDfw+f9AHo9KcL2w9gtU6V+HaCHhWC+W/6BFbUKvFSffFjg==","traceNo":"536102","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"101807131502155361028","accessType":"1","exchangeRate":"0","traceTime":"0713150215","txnTime":"20180713150215","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146053","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 15:03:02,565 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 15:03:02,605 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 180313::499041
+2018-07-13 15:03:03,127 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 15:03:02.753","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713150215096452","netsMidIndicator":"I","netsTxnRef":"20180713150215301","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 15:02:15.097","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzE1MDIxNTA5NjQ1MiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTUwMjE1MzAxIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxNTowMjoxNS4wOTciLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI1MzYxMDIiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiI3NDg0NzQwMzQ1NjU1NzkzMyIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDE1OjAyOjE1LjM5MSIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjIwMDB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"74847403456557933","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"RXHtxwDvQYW9r8ZlwbgtVsO4wc8VIbSHSQ+7ONIHXjo=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 15:09:49,854 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 15:09:49,857 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713150906302, payCardType=02, preAuthId=146058, queryId=911807131509065299038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=H+JK+z9wZ4TzkanDGJ2LZKaO+ZauETXfzvXWs2uC97ekhBpOF/b4rasQYExoGHRB7AekOb6zZZfa2vMPsvSuBO97qJpsJ0ck6UK5Uoc1hxwhZbHLYc55rAdgxm3jgMa2TEgRwlQpeGTYvLHwdBg8eKNyfEx4MwOeca/Ja/Z6vbvEaUFjfnbyKZ8TDuVwMIycfhSdjXG01zngoAEvLLAlfovft1xXY8NJ5Gda6TvGvRcMSlsp+LE5LWcWIqE5X9s81wofz6Qw4AS61aImDYSMJzxE9lIFJ2F1V7bH6MlQd52Hofa7fhzvNdni4Esq2tyZL7UxlBME6S/Gid9XIPFzsA==, traceNo=529903, traceTime=0713150906, txnAmt=2000, txnSubType=01, txnTime=20180713150906, txnType=02, version=5.1.0}
+2018-07-13 15:09:49,901 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20180913 15:09:49.900",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713150906302","signature":"H+JK+z9wZ4TzkanDGJ2LZKaO+ZauETXfzvXWs2uC97ekhBpOF/b4rasQYExoGHRB7AekOb6zZZfa2vMPsvSuBO97qJpsJ0ck6UK5Uoc1hxwhZbHLYc55rAdgxm3jgMa2TEgRwlQpeGTYvLHwdBg8eKNyfEx4MwOeca/Ja/Z6vbvEaUFjfnbyKZ8TDuVwMIycfhSdjXG01zngoAEvLLAlfovft1xXY8NJ5Gda6TvGvRcMSlsp+LE5LWcWIqE5X9s81wofz6Qw4AS61aImDYSMJzxE9lIFJ2F1V7bH6MlQd52Hofa7fhzvNdni4Esq2tyZL7UxlBME6S/Gid9XIPFzsA==","traceNo":"529903","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"911807131509065299038","accessType":"1","exchangeRate":"0","traceTime":"0713150906","txnTime":"20180713150906","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146058","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 15:09:49,903 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 15:09:49,945 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 180913::482333
+2018-07-13 15:09:50,406 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 15:09:50.117","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713150906652454","netsMidIndicator":"I","netsTxnRef":"20180713150906302","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 15:09:06.652","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzE1MDkwNjY1MjQ1NCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTUwOTA2MzAyIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxNTowOTowNi42NTIiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI1Mjk5MDMiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiI2MjgyNDk3NzQ4MTg0NDg4NCIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDE1OjA5OjA2Ljg2NSIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjIwMDB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"62824977481844884","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"X5x1PDtTovi7BM5x61KnZIGllp39gNeoc+u6UN4HMpw=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 15:12:10,359 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 15:12:10,360 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713151129303, payCardType=02, preAuthId=146060, queryId=061807131511285385028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=m3zgCCQFOy8izDkUEQczEHZ7hTZWqgmZQjO+B4eaVNS8Zn/AMKvnJqB0WIlK8W4ZrQlqYnTqrMgPQCfYn7PGORBm5WZu05HKdT8rKImaQtX1QrZeYamuTdcbz8DbFtMgICSgEBpwxQXMxE6ZeSKJSTMLCA59ldKg0Waw1Rr3UqmWAzhvR7X4wOYuXpzd3aRBDS/79cn6ugNEgm34qNemilSwtshHONJBAI+V/eHkGwaUQub8jOjelM1bPL82ayuKTbi/HIwaQ1rDp51F3w0HFjX1QU2ChbmAGn1vkYa1a+y1PZdn4w2P1WTQOl95k10CRmtRFRtpdBwKd5DCDa5Eaw==, traceNo=538502, traceTime=0713151128, txnAmt=2000, txnSubType=01, txnTime=20180713151128, txnType=02, version=5.1.0}
+2018-07-13 15:12:10,401 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20181213 15:12:10.400",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713151129303","signature":"m3zgCCQFOy8izDkUEQczEHZ7hTZWqgmZQjO+B4eaVNS8Zn/AMKvnJqB0WIlK8W4ZrQlqYnTqrMgPQCfYn7PGORBm5WZu05HKdT8rKImaQtX1QrZeYamuTdcbz8DbFtMgICSgEBpwxQXMxE6ZeSKJSTMLCA59ldKg0Waw1Rr3UqmWAzhvR7X4wOYuXpzd3aRBDS/79cn6ugNEgm34qNemilSwtshHONJBAI+V/eHkGwaUQub8jOjelM1bPL82ayuKTbi/HIwaQ1rDp51F3w0HFjX1QU2ChbmAGn1vkYa1a+y1PZdn4w2P1WTQOl95k10CRmtRFRtpdBwKd5DCDa5Eaw==","traceNo":"538502","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"061807131511285385028","accessType":"1","exchangeRate":"0","traceTime":"0713151128","txnTime":"20180713151128","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146060","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 15:12:10,401 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 15:12:10,442 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 181213::257929
+2018-07-13 15:12:10,944 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 15:12:10.583","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713151128835456","netsMidIndicator":"I","netsTxnRef":"20180713151129303","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 15:11:28.836","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzE1MTEyODgzNTQ1NiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTUxMTI5MzAzIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxNToxMToyOC44MzYiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNTM4NTAyIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNDE1MTU3MzQ5OTc4MDYxMzkiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxNToxMToyOS4wMzAiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"41515734997806139","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"sWRveknuD+Wu6ZIoGXRPAlt7k+MipvFaHw8B+chCWdI=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 15:15:52,306 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 15:15:52,306 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713151511304, payCardType=02, preAuthId=146062, queryId=711807131515115315038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=R9e4NKrdVArQp6hysfLU4MT8VNb3gN9GaHdTLkKuRe/zkjG208WAlQl5wJLwOP4FUjndhAQWiqSjJAKUt7caeV5rTAoXEAkqt38qsibC1V2MaVyjFDy8ohl0O1vazStAe4RJxNiNs7klxe5rwvlmWgP7nBrFGaGOI98NXIW5llH1FuWTUQHxp5YyuQp5kZRSn/Qib016DqBhJcW7j4GymBNSY+Yflf6H50IaKt64lqWC7JrlFwMPfxbb0BwvD6/g/d9E5UekKBe/1hP3/ussOD0Jzglsa36MuoOMa83SbOzvvosGalvTwPvX57PaFkyjdINh6pgXG3hGoUa3vLzN2A==, traceNo=531503, traceTime=0713151511, txnAmt=2000, txnSubType=01, txnTime=20180713151511, txnType=02, version=5.1.0}
+2018-07-13 15:15:52,347 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20181513 15:15:52.346",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713151511304","signature":"R9e4NKrdVArQp6hysfLU4MT8VNb3gN9GaHdTLkKuRe/zkjG208WAlQl5wJLwOP4FUjndhAQWiqSjJAKUt7caeV5rTAoXEAkqt38qsibC1V2MaVyjFDy8ohl0O1vazStAe4RJxNiNs7klxe5rwvlmWgP7nBrFGaGOI98NXIW5llH1FuWTUQHxp5YyuQp5kZRSn/Qib016DqBhJcW7j4GymBNSY+Yflf6H50IaKt64lqWC7JrlFwMPfxbb0BwvD6/g/d9E5UekKBe/1hP3/ussOD0Jzglsa36MuoOMa83SbOzvvosGalvTwPvX57PaFkyjdINh6pgXG3hGoUa3vLzN2A==","traceNo":"531503","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"711807131515115315038","accessType":"1","exchangeRate":"0","traceTime":"0713151511","txnTime":"20180713151511","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146062","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 15:15:52,347 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 15:15:52,388 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 181513::840595
+2018-07-13 15:15:52,973 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 15:15:52.529","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713151511065458","netsMidIndicator":"I","netsTxnRef":"20180713151511304","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 15:15:11.065","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzE1MTUxMTA2NTQ1OCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTUxNTExMzA0IiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxNToxNToxMS4wNjUiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNTMxNTAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNjMxMTM4NDQwNTQ5NzkyODUiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxMyAxNToxNToxMS4yNTEiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"63113844054979285","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"YTBhaOP3QXMyknEUMvtc6lBDmuTtgmEF8CnkuNG2zj0=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-13 16:00:24,399 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-13 16:00:28,924 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 16:00:28,924 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 16:00:29,359 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 16:00:29,442 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 16:00:29,444 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 16:00:29,454 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 16:00:29,454 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 16:00:29,600 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 16:00:29,600 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 16:00:29,601 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 16:29:52,047 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-13 16:29:56,718 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 16:29:56,719 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 16:29:57,135 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 16:29:57,253 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 16:29:57,256 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 16:29:57,267 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 16:29:57,267 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.63 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 16:29:57,434 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 16:29:57,436 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 16:29:57,437 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 17:12:27,386 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-13 17:12:32,280 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 17:12:32,280 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 17:12:32,722 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 17:12:32,792 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 17:12:32,795 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 17:12:32,806 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 17:12:32,806 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 17:12:32,983 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 17:12:32,984 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 17:12:32,985 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 17:19:16,521 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-13 17:19:21,043 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 17:19:21,043 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 17:19:21,459 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 17:19:21,537 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 17:19:21,541 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 17:19:21,552 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-13 17:19:21,552 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-13 17:19:21,704 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-13 17:19:21,705 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-13 17:19:21,705 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-13 17:20:30,165 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-13 17:20:30,167 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180713171941301, payCardType=02, preAuthId=146082, queryId=981807131719415411038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0713, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=n7HPm7CPyr31e3Rked4t7nk5tT1WW77UZ5H90SIUzXCPP5/GoSSwi6ovkhAhmP3KO7VQnVGOuWkGPwiTaVksn+7T/BqlMEqqRtrwo4P2va6Ex5ua5XHCzjD9hqRT4iggVu/qZI2mIUFOCB2G+4lYCCHVLE9AA/iE05WDLnx73mi88kBu1gLD8eZD+UO3ydupUcZZUtUpFmhCibSizOAhtQOXE2zGsHZqKhB7wrMelaeZ5AQNlTGJTPVLR9ibsjB/5DVl+9pRvhOqALXQD9LLrJDwYryFaM9IHJvodgNisYlEfzy0m+BL5L0z8z9Cqr9T4suz55eDh6a6X4EOD3Lrgg==, traceNo=541103, traceTime=0713171941, txnAmt=2000, txnSubType=01, txnTime=20180713171941, txnType=02, version=5.1.0}
+2018-07-13 17:20:31,552 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20182013 17:20:31.394",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180713171941301","signature":"n7HPm7CPyr31e3Rked4t7nk5tT1WW77UZ5H90SIUzXCPP5/GoSSwi6ovkhAhmP3KO7VQnVGOuWkGPwiTaVksn+7T/BqlMEqqRtrwo4P2va6Ex5ua5XHCzjD9hqRT4iggVu/qZI2mIUFOCB2G+4lYCCHVLE9AA/iE05WDLnx73mi88kBu1gLD8eZD+UO3ydupUcZZUtUpFmhCibSizOAhtQOXE2zGsHZqKhB7wrMelaeZ5AQNlTGJTPVLR9ibsjB/5DVl+9pRvhOqALXQD9LLrJDwYryFaM9IHJvodgNisYlEfzy0m+BL5L0z8z9Cqr9T4suz55eDh6a6X4EOD3Lrgg==","traceNo":"541103","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0713","txnType":"02","queryId":"981807131719415411038","accessType":"1","exchangeRate":"0","traceTime":"0713171941","txnTime":"20180713171941","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146082","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-13 17:20:31,564 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-13 17:20:31,740 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 182013::729155
+2018-07-13 17:20:38,210 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180713 17:20:32.193","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0713171941222462","netsMidIndicator":"I","netsTxnRef":"20180713171941301","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180713 17:19:41.222","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxMzE3MTk0MTIyMjQ2MiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzEzMTcxOTQxMzAxIiwibmV0c1ZhbHVlRGF0ZSI6IjE0LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxMyAxNzoxOTo0MS4yMjIiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJtYXNrUGFuIjoiNjI1MDk0WFhYWFhYMDAxNCIsImJhbmtJZCI6IjM0NzEwNzAyIiwiYmFua1JlZkNvZGUiOiI1NDExMDMiLCJzdGFnZVJlc3BDb2RlIjoiMzA5OS0wMDAwMCIsInR4blJhbmQiOiIxMTMxMTc1NDU0MDI3MzgyMiIsIm1vYmlsZU9TIjoiQW5kcm9pZCIsImFjdGlvbkNvZGUiOiIwIiwibmV0c1R4bkR0bSI6IjIwMTgwNzEzIDE3OjE5OjQxLjUwMCIsIm5ldHNUaW1lWm9uZSI6IiswNTozMCIsIm5ldHNUeG5TdGF0dXMiOiIwIiwibmV0c1R4bk1zZyI6IlN1Y2Nlc3NmdWwiLCJuZXRzQW1vdW50RGVkdWN0ZWQiOjIwMDB9LCJzcyI6IjEifQ==","stageRespCode":"3099-00000","txnRand":"11311754540273822","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"JsO7pB/sXjkdevtENum7S3+UoPZ7AjcYJ9FuljZFgM4=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}

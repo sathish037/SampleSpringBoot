@@ -1,0 +1,569 @@
+2018-07-16 10:06:26,529 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 10:06:31,115 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:06:31,116 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 10:06:31,554 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:06:31,612 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:06:31,615 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:06:31,628 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:06:31,628 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 10:06:31,768 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:06:31,769 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:06:31,770 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:15:24,991 # INFO  # Version                       : HV000001: Hibernate Validator 5.2.4.Final
+2018-07-16 10:15:34,611 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 10:17:34,554 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 10:17:39,087 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:17:39,097 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:17:39,537 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:17:39,595 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:17:39,598 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:17:39,609 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:17:39,609 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:17:39,757 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:17:39,758 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:17:39,758 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:43:58,903 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 10:44:03,217 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:44:03,217 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:44:03,593 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:44:03,682 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:44:03,684 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:44:03,701 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:44:03,702 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:44:03,846 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:44:03,846 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:44:03,846 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:49:52,468 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-16 10:49:52,469 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180716104836300, payCardType=02, preAuthId=146240, queryId=461807161048357043028, respCode=00, respMsg=success, settleAmt=10234, settleCurrencyCode=702, settleDate=0716, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=WnAdKlFcgpgnUgJaK/I6ehQb/jhWhtPKG0OARPngprxHbJlhTlFiJa+vfDDejS+dgbHqKfs5V2S29i/D1h0JxnPjdrv/xxqvM/i39vvgldv/9Si3i/qyCzS/yDtdGoAzWcU5q1DOWGjyVgWEq8E+zjoj4dhmmucJHcdnPNU7P+x0h3X2eJSXY/fS8iC1N10JAm6ceSQIKHJXMWaVKdzWz2NEwXraDPMSgmcIctzX2mdeK8RPlWthekJTUORdinPn1Eg26vHRoMGdPAjdNjXroU/mT0fbNiYmKIfHnB2QMS+ztzJNXz5VvVTws8ArK2+sK8jJKd0/XiWU2W1jOOoYgw==, traceNo=704302, traceTime=0716104835, txnAmt=10234, txnSubType=01, txnTime=20180716104835, txnType=02, version=5.1.0}
+2018-07-16 10:49:53,393 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184916 10:49:53.339",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180716104836300","signature":"WnAdKlFcgpgnUgJaK/I6ehQb/jhWhtPKG0OARPngprxHbJlhTlFiJa+vfDDejS+dgbHqKfs5V2S29i/D1h0JxnPjdrv/xxqvM/i39vvgldv/9Si3i/qyCzS/yDtdGoAzWcU5q1DOWGjyVgWEq8E+zjoj4dhmmucJHcdnPNU7P+x0h3X2eJSXY/fS8iC1N10JAm6ceSQIKHJXMWaVKdzWz2NEwXraDPMSgmcIctzX2mdeK8RPlWthekJTUORdinPn1Eg26vHRoMGdPAjdNjXroU/mT0fbNiYmKIfHnB2QMS+ztzJNXz5VvVTws8ArK2+sK8jJKd0/XiWU2W1jOOoYgw==","traceNo":"704302","settleAmt":"10234","settleCurrencyCode":"702","settleDate":"0716","txnType":"02","queryId":"461807161048357043028","accessType":"1","exchangeRate":"0","traceTime":"0716104835","txnTime":"20180716104835","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146240","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"10234"}
+		}	
+}
+2018-07-16 10:49:53,403 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-16 10:49:53,502 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_DDDVK.RQ.FROM.FE, stan:  , corrId: 184916::124929
+2018-07-16 10:50:23,654 # ERROR # UpopTxnEndMsgController       : Exception ocurred.
+java.lang.NullPointerException
+	at mvi.upop.controller.UpopMvcController.constructTxnEndMsg(UpopMvcController.java:265)
+	at mvi.upop.controller.UpopMvcController.acpFrontUrlHandler(UpopMvcController.java:222)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:114)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:107)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-07-16 10:52:09,718 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 10:52:14,302 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:52:14,302 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_DDDVK/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:52:14,700 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:52:14,845 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:52:14,848 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:52:14,868 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:52:14,868 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_DDDVK/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:52:15,022 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:52:15,023 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:52:15,024 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:54:25,228 # INFO  # Version                       : HV000001: Hibernate Validator 5.2.4.Final
+2018-07-16 10:59:24,720 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 10:59:29,253 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:59:29,254 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_DDDVK/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:59:29,678 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:59:29,752 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:59:29,754 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 10:59:29,767 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 10:59:29,767 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_DDDVK/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_DDDVK.RS.TO.FE, mqSndQNameBackEnd : FEH1_DDDVK.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_DDDVK.RS.TO.FE
+2018-07-16 10:59:29,920 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 10:59:29,921 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 10:59:29,921 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 11:25:17,956 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 11:25:24,923 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 11:25:24,923 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 11:25:25,499 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 11:25:25,585 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 11:25:25,589 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 11:25:25,609 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 11:25:25,609 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 11:25:25,761 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 11:25:25,761 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 11:25:25,762 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 11:32:49,045 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-16 11:32:49,046 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180716113135300, payCardType=02, preAuthId=146249, queryId=361807161131327187028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0716, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=lWjXD4T7kl0zPe0F8cfyGXO8r0ylI+oOHj7zG0qmxzD+NyEBNMIKaO4IBFE5PUrZ5Wf5I3V4n9HvP6kZdcNY2OSvh0qiWaSUlitcPfeFo5x0vQ7CxpT0h0PipxCp5ZFxLR7CpZW+Qcr7cjbNoATB615e0NoDzWvGuAHPfSeB3ZXZRI2xRT+3zN4bG8jAjiIke085ikSlUafA7rkFBJ14Vdo/tCS3Y7pN4b0AOEdXvOyS5nPzTb7Xxd81Yyjci5vNHBgqm4TCr0M0pW1vFAFlGB3pYbs+sy1gUmn0GD+71yholcwHDLhQYuACYQtkOKxgBCIJ/O51OhHvOWxUe8/SGg==, traceNo=718702, traceTime=0716113132, txnAmt=2000, txnSubType=01, txnTime=20180716113132, txnType=02, version=5.1.0}
+2018-07-16 11:32:50,599 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20183216 11:32:50.282",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180716113135300","signature":"lWjXD4T7kl0zPe0F8cfyGXO8r0ylI+oOHj7zG0qmxzD+NyEBNMIKaO4IBFE5PUrZ5Wf5I3V4n9HvP6kZdcNY2OSvh0qiWaSUlitcPfeFo5x0vQ7CxpT0h0PipxCp5ZFxLR7CpZW+Qcr7cjbNoATB615e0NoDzWvGuAHPfSeB3ZXZRI2xRT+3zN4bG8jAjiIke085ikSlUafA7rkFBJ14Vdo/tCS3Y7pN4b0AOEdXvOyS5nPzTb7Xxd81Yyjci5vNHBgqm4TCr0M0pW1vFAFlGB3pYbs+sy1gUmn0GD+71yholcwHDLhQYuACYQtkOKxgBCIJ/O51OhHvOWxUe8/SGg==","traceNo":"718702","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0716","txnType":"02","queryId":"361807161131327187028","accessType":"1","exchangeRate":"0","traceTime":"0716113132","txnTime":"20180716113132","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146249","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-16 11:32:50,659 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-16 11:32:50,865 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 183216::949388
+2018-07-16 11:32:57,673 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180716 11:32:51.326","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0716113132939476","netsMidIndicator":"I","netsTxnRef":"20180716113135300","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180716 11:31:32.940","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxNjExMzEzMjkzOTQ3NiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzE2MTEzMTM1MzAwIiwibmV0c1ZhbHVlRGF0ZSI6IjE3LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxNiAxMTozMTozMi45NDAiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNzE4NzAyIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiODMxOTU2NDM5Nzc3ODI1NzEiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxNiAxMTozMTozNS4xMzgiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"83195643977782571","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"dA8nuIF1OktCtVYZRoD61O8qYcggac1QhQxh9TJMY+M=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-16 11:40:46,433 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 11:40:51,337 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 11:40:51,337 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 11:40:51,861 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 11:40:51,944 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 11:40:51,948 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 11:40:51,969 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 11:40:51,969 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 11:40:52,112 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 11:40:52,112 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 11:40:52,112 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 11:41:41,763 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-16 11:41:41,764 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180716114057301, payCardType=02, preAuthId=146251, queryId=061807161140577230028, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0716, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=WzBcc1/YwEY8GbgK3Yrhz3W+shMnDkk23SvTyDABGwddwgaU5XW6/HCAjI62OVRUHZGNR+40GzncSAJ1Gzs6MBwmIfrbhWC0FP3ArxpnDS5H22do2DOSLGIO95NGLQu/BVxfF9heWbRmvVFvPsuxuOr3Wn6R8S3JSQ3rm6cHl1kB0wQWCppjGriOrFx4s8yOboUJ30+Sa5E2uE+KBislXu42h5vjHdMw6ZaexXtDA5ArBHinB3D1y2A+L6u2sd99QanzL9GR9I7KyKsPYuzWivlUc5q8WfvOQ0+xMNMYsuz438EYa4kALCEJqDUfrjWHuvrs44BSGeKbjCwYGGzgNw==, traceNo=723002, traceTime=0716114057, txnAmt=2000, txnSubType=01, txnTime=20180716114057, txnType=02, version=5.1.0}
+2018-07-16 11:41:42,594 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20184116 11:41:42.520",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180716114057301","signature":"WzBcc1/YwEY8GbgK3Yrhz3W+shMnDkk23SvTyDABGwddwgaU5XW6/HCAjI62OVRUHZGNR+40GzncSAJ1Gzs6MBwmIfrbhWC0FP3ArxpnDS5H22do2DOSLGIO95NGLQu/BVxfF9heWbRmvVFvPsuxuOr3Wn6R8S3JSQ3rm6cHl1kB0wQWCppjGriOrFx4s8yOboUJ30+Sa5E2uE+KBislXu42h5vjHdMw6ZaexXtDA5ArBHinB3D1y2A+L6u2sd99QanzL9GR9I7KyKsPYuzWivlUc5q8WfvOQ0+xMNMYsuz438EYa4kALCEJqDUfrjWHuvrs44BSGeKbjCwYGGzgNw==","traceNo":"723002","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0716","txnType":"02","queryId":"061807161140577230028","accessType":"1","exchangeRate":"0","traceTime":"0716114057","txnTime":"20180716114057","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146251","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-16 11:41:42,607 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-16 11:41:42,755 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 184116::442860
+2018-07-16 11:41:43,276 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180716 11:41:42.911","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0716114057109478","netsMidIndicator":"I","netsTxnRef":"20180716114057301","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180716 11:40:57.109","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxNjExNDA1NzEwOTQ3OCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzE2MTE0MDU3MzAxIiwibmV0c1ZhbHVlRGF0ZSI6IjE3LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxNiAxMTo0MDo1Ny4xMDkiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNzIzMDAyIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNTU3MDg3Mzc0MzczMjU3MzYiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxNiAxMTo0MDo1Ny4zMjkiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"55708737437325736","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"CagmEYmB6xovDtD9jfi/1YQ9xaOyeiuNBeeHQJn+cqI=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-16 12:34:29,003 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 12:34:33,494 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 12:34:33,494 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 12:34:33,936 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 12:34:34,014 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 12:34:34,017 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 12:34:34,028 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 12:34:34,028 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 12:34:34,177 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 12:34:34,178 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 12:34:34,178 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 14:49:25,801 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 14:49:33,211 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 14:49:33,211 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 14:49:33,829 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 14:49:33,915 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 14:49:33,917 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 14:49:33,928 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 14:49:33,928 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 14:49:34,066 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 14:49:34,067 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 14:49:34,067 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 14:50:11,012 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 14:50:16,745 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 14:50:16,745 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 14:50:17,178 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 14:50:17,293 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 14:50:17,297 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 14:50:17,309 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 14:50:17,309 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 14:50:17,456 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 14:50:17,456 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 14:50:17,457 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 14:52:51,093 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-16 14:52:51,093 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180716145120300, payCardType=02, preAuthId=146344, queryId=731807161451197876038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0716, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=qMJHA+5pNrqDmrafgHTg6KNgghJEOM987lbDD6RtV5gdAiujWQxBqgXK9V4ydwxwNHRwuEas6QbZBuAl/52CzigeYarTk3jO65KMPkyQc/2+rApgPdQ6Qsdq01j4ZcaRNAMRcLFLob/+KUJHtjYZMlsjm2d2zTVUGsj/BrKU1kHdhr5h8vnAO9fUol1jnhSpMmm/EuHgg83ARFP676MKNZt7IQ40j7daZPCF1Wz4z7FnbUU1RNNdu6piuZ7NQuXSpL11t1p/1jX+YfehRQgcQi2O0O1vHfJtMVnfXa/q4IDozLz/0MLDulLuUtGObpChQpII5xLVUnmeKsjflB3nDg==, traceNo=787603, traceTime=0716145119, txnAmt=2000, txnSubType=01, txnTime=20180716145119, txnType=02, version=5.1.0}
+2018-07-16 14:52:51,831 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20185216 14:52:51.763",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180716145120300","signature":"qMJHA+5pNrqDmrafgHTg6KNgghJEOM987lbDD6RtV5gdAiujWQxBqgXK9V4ydwxwNHRwuEas6QbZBuAl/52CzigeYarTk3jO65KMPkyQc/2+rApgPdQ6Qsdq01j4ZcaRNAMRcLFLob/+KUJHtjYZMlsjm2d2zTVUGsj/BrKU1kHdhr5h8vnAO9fUol1jnhSpMmm/EuHgg83ARFP676MKNZt7IQ40j7daZPCF1Wz4z7FnbUU1RNNdu6piuZ7NQuXSpL11t1p/1jX+YfehRQgcQi2O0O1vHfJtMVnfXa/q4IDozLz/0MLDulLuUtGObpChQpII5xLVUnmeKsjflB3nDg==","traceNo":"787603","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0716","txnType":"02","queryId":"731807161451197876038","accessType":"1","exchangeRate":"0","traceTime":"0716145119","txnTime":"20180716145119","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146344","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-16 14:52:51,836 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-16 14:52:52,013 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 185216::135322
+2018-07-16 14:52:59,399 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180716 14:52:52.808","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0716145119647480","netsMidIndicator":"I","netsTxnRef":"20180716145120300","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180716 14:51:19.647","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxNjE0NTExOTY0NzQ4MCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzE2MTQ1MTIwMzAwIiwibmV0c1ZhbHVlRGF0ZSI6IjE3LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxNiAxNDo1MToxOS42NDciLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiNzg3NjAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNzc1Mzg3ODg3Nzk2MDY0MTgiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxNiAxNDo1MToyMC4zODQiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"77538788779606418","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"kmcgo7nitDZ2QsYEnKYYQvk0qIH6DzJavQ54UnlMzh0=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-16 15:59:19,300 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 15:59:24,632 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 15:59:24,632 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 15:59:25,028 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 15:59:25,105 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 15:59:25,108 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 15:59:25,118 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 15:59:25,118 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 15:59:25,266 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 15:59:25,267 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 15:59:25,267 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:13:32,334 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 16:13:38,901 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:13:38,901 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:13:39,358 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:13:39,474 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:13:39,478 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:13:39,492 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:13:39,492 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:13:39,629 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:13:39,629 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:13:39,630 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:18:09,070 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-16 16:18:09,071 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180716161505300, payCardType=02, preAuthId=146370, queryId=571807161615048051038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0716, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=tExsfucaW6jvK1OKmSUHsdWu1V8jjij+R+iPXdnd2BfiHBZmOA7xl9cZAlqHNQ9MU/pq8jXWXcq0QjGb1NbSIPhfWgrqg/jU6Tup4ydyPq+2It0uwsWKzIoPA/h1Uky1Eftm3DWtaJSaTm3mhGadnljgc4dEsW421v93uMulX0iy4UI1Z6A9iKqiLRSpDysl+7ZnqpoScDm6v+QG7dB4AU6Zp6HN2UzeNXmPVp34J6MIzuJt1xPB4WkRuOVr2EPBwzF/2PHpFS8p58gCdWYfkGoaDTOaUgIV4vIPI+sT9/kSmUPRIUmXnlhq3759su5A0FLJLVKgtuTjkIl2D9T0xA==, traceNo=805103, traceTime=0716161504, txnAmt=2000, txnSubType=01, txnTime=20180716161504, txnType=02, version=5.1.0}
+2018-07-16 16:18:09,723 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20181816 16:18:09.658",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180716161505300","signature":"tExsfucaW6jvK1OKmSUHsdWu1V8jjij+R+iPXdnd2BfiHBZmOA7xl9cZAlqHNQ9MU/pq8jXWXcq0QjGb1NbSIPhfWgrqg/jU6Tup4ydyPq+2It0uwsWKzIoPA/h1Uky1Eftm3DWtaJSaTm3mhGadnljgc4dEsW421v93uMulX0iy4UI1Z6A9iKqiLRSpDysl+7ZnqpoScDm6v+QG7dB4AU6Zp6HN2UzeNXmPVp34J6MIzuJt1xPB4WkRuOVr2EPBwzF/2PHpFS8p58gCdWYfkGoaDTOaUgIV4vIPI+sT9/kSmUPRIUmXnlhq3759su5A0FLJLVKgtuTjkIl2D9T0xA==","traceNo":"805103","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0716","txnType":"02","queryId":"571807161615048051038","accessType":"1","exchangeRate":"0","traceTime":"0716161504","txnTime":"20180716161504","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146370","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-16 16:18:09,735 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-16 16:18:09,834 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 181816::172505
+2018-07-16 16:18:16,181 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180716 16:18:10.416","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0716161504916482","netsMidIndicator":"I","netsTxnRef":"20180716161505300","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180716 16:15:04.917","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxNjE2MTUwNDkxNjQ4MiIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzE2MTYxNTA1MzAwIiwibmV0c1ZhbHVlRGF0ZSI6IjE3LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxNiAxNjoxNTowNC45MTciLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiODA1MTAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNjI1OTIwOTMzMDAwMTY5MTUiLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxNiAxNjoxNTowNS41MTUiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"62592093300016915","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"8IdXvLEgMnCWh0fxAZ0qIAoE9vI+qQAGbuooBRbaHOc=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-16 16:21:29,275 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 16:21:33,757 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:21:33,758 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:21:34,208 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:21:34,277 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:21:34,279 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:21:34,287 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:21:34,287 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:21:34,430 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:21:34,431 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:21:34,432 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:26:31,070 # INFO  # UpopTxnEndMsgController       : acp_front_url.do recived
+2018-07-16 16:26:31,071 # INFO  # UpopTxnEndMsgController       : Front Request Parameters:{accNo=6250947000000014, accessType=1, acqInsCode=34710702, bizType=000201, currencyCode=702, encoding=UTF-8, exchangeRate=0, merId=802290049000180, orderId=20180716162541301, payCardType=02, preAuthId=146372, queryId=711807161625418168038, respCode=00, respMsg=success, settleAmt=2000, settleCurrencyCode=702, settleDate=0716, signMethod=01, signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----, signature=o3EkZKXPHp4VrdO9QcYNiMyr9rsQyXYj/mfCr9w0zIBYVZj6Q18/kNwr/fpJ13cWImRA+LkTxRKnLjAoqa3j79BN/1haLu3RJqyBOIILEBfrmTmDy+874m6XBqhfehLyghALoe0wJGPiHAFl9VL7mR/X7Mg4GjZuIYfz3KwM2JBbA2VU++9KaS/O44CAwnqcmVLQr0sAQJo4hHK62q2ShaizvyYhOHNjDouPvcYKpbwdd0bwiEmJfGCwDtdv2V0BCN/jltDN4+zfsp/zdyg7DSa04/MtElCaTvTSA/Nw3EpkLt4QyphzxQ6k9UMtG0JNni3ZuLhbVvqtQRb/MsQfzA==, traceNo=816803, traceTime=0716162541, txnAmt=2000, txnSubType=01, txnTime=20180716162541, txnType=02, version=5.1.0}
+2018-07-16 16:26:31,801 # INFO  # UpopTxnEndMsgController       : Request:{
+   "swHdr": 
+		{"svcChnl":"FEH", 
+		"svcType":"CNP",
+		"msgFmt":"soapi",
+		"msgFmtVer":"2.00",
+		"msgType":"UpopFTxnEndB2S",
+		"msgSubType":"*",
+		"msgCreateDtm":"20182616 16:26:31.693",
+		"msgSender":"FE01",
+		"msgRefId":"MDynDevMQ",
+		"msgSubFmt":"soapi_v2",
+		"msgActionCode":"up01.03"
+     },
+	"msg":
+		{ 
+		"paymentMode":"UP",
+		"ipAddress":"ipAddress",
+		"htmlPostData":{"bizType":"000201","orderId":"20180716162541301","signature":"o3EkZKXPHp4VrdO9QcYNiMyr9rsQyXYj/mfCr9w0zIBYVZj6Q18/kNwr/fpJ13cWImRA+LkTxRKnLjAoqa3j79BN/1haLu3RJqyBOIILEBfrmTmDy+874m6XBqhfehLyghALoe0wJGPiHAFl9VL7mR/X7Mg4GjZuIYfz3KwM2JBbA2VU++9KaS/O44CAwnqcmVLQr0sAQJo4hHK62q2ShaizvyYhOHNjDouPvcYKpbwdd0bwiEmJfGCwDtdv2V0BCN/jltDN4+zfsp/zdyg7DSa04/MtElCaTvTSA/Nw3EpkLt4QyphzxQ6k9UMtG0JNni3ZuLhbVvqtQRb/MsQfzA==","traceNo":"816803","settleAmt":"2000","settleCurrencyCode":"702","settleDate":"0716","txnType":"02","queryId":"711807161625418168038","accessType":"1","exchangeRate":"0","traceTime":"0716162541","txnTime":"20180716162541","signPubKeyCert":"-----BEGIN CERTIFICATE-----\r\nMIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC\r\nQ04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv\r\ncml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN\r\nMjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex\r\nMQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU\r\nJTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG\r\nSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d\r\nbD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d\r\nEtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ\r\nDdde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO\r\nG47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV\r\nblaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw\r\ngfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9\r\nBghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu\r\nL3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh\r\nLmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU\r\nmQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF\r\nBwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW\r\nKVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi\r\nYYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP\r\nMTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF\r\nJGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI\r\npp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8\r\n-----END CERTIFICATE-----","payCardType":"02","txnSubType":"01","accNo":"6250947000000014","acqInsCode":"34710702","encoding":"UTF-8","version":"5.1.0","respMsg":"success","merId":"802290049000180","preAuthId":"146372","currencyCode":"702","respCode":"00","signMethod":"01","txnAmt":"2000"}
+		}	
+}
+2018-07-16 16:26:31,811 # INFO  # UpopTxnEndMsgController       : Destination queue set as:D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1
+2018-07-16 16:26:31,897 # INFO  # UpopTxnEndMsgController       : Sent msg to queue: FEH1_IND.RQ.FROM.FE, stan:  , corrId: 182616::044042
+2018-07-16 16:26:32,514 # INFO  # UpopTxnEndMsgController       : Frontend Receive msg:{"swHdr":{"svcChnl":"FEH","svcType":"CNP","msgFmt":"soapi","msgFmtVer":"2.00","msgType":"UpopFTxnEndB2S.rs","msgSubType":"UpopFTxnRes","msgCreateDtm":"20180716 16:26:32.124","msgSender":"T1G1_FEH1_IND","msgRefId":"MDynDevMQ","msgSubFmt":"soapi_v2","msgActionCode":"up01.04"},"msg":{"netsMid":"802290049000180","merchantTxnRef":"0716162541291484","netsMidIndicator":"I","netsTxnRef":"20180716162541301","tid":"","paymentMode":"UP","txnAmount":2000,"currencyCode":"SGD","merchantTxnDtm":"20180716 16:25:41.291","merchantTimeZone":"UTC","paymentType":"AUTH","b2sTxnEndURL":"https:192.168.0.76:8080","s2sTxnEndURL":"http://192.168.0.71:8110/mydn_mni_web_simulator/GW3/mniclient.bt","rawMsg":"eyJtc2ciOnsibmV0c01pZCI6IjgwMjI5MDA0OTAwMDE4MCIsIm1lcmNoYW50VHhuUmVmIjoiMDcxNjE2MjU0MTI5MTQ4NCIsIm5ldHNNaWRJbmRpY2F0b3IiOiJJIiwibmV0c1R4blJlZiI6IjIwMTgwNzE2MTYyNTQxMzAxIiwibmV0c1ZhbHVlRGF0ZSI6IjE3LzA3LzIwMTgiLCJ0aWQiOiIiLCJwYXltZW50TW9kZSI6IlVQIiwic3VibWlzc2lvbk1vZGUiOiJCIiwiY3VycmVuY3lDb2RlIjoiU0dEIiwibWVyY2hhbnRUeG5EdG0iOiIyMDE4MDcxNiAxNjoyNTo0MS4yOTEiLCJtZXJjaGFudFRpbWVab25lIjoiVVRDIiwicGF5bWVudFR5cGUiOiJBVVRIIiwiY2xpZW50VHlwZSI6IlciLCJiYW5rSWQiOiIzNDcxMDcwMiIsImJhbmtSZWZDb2RlIjoiODE2ODAzIiwic3RhZ2VSZXNwQ29kZSI6IjMwOTktMDAwMDAiLCJ0eG5SYW5kIjoiNjI4MzA1MzIwNTI0ODEwODciLCJtb2JpbGVPUyI6IkFuZHJvaWQiLCJhY3Rpb25Db2RlIjoiMCIsIm5ldHNUeG5EdG0iOiIyMDE4MDcxNiAxNjoyNTo0MS41MTIiLCJuZXRzVGltZVpvbmUiOiIrMDU6MzAiLCJuZXRzVHhuU3RhdHVzIjoiMCIsIm5ldHNUeG5Nc2ciOiJTdWNjZXNzZnVsIiwibmV0c0Ftb3VudERlZHVjdGVkIjoyMDAwfSwic3MiOiIxIn0=","stageRespCode":"3099-00000","txnRand":"62830532052481087","apiKey":"1232323sdsd","ss":"1","actionCode":"0","hmac":"1arpxK3iweKfrymAjmVvE9K14XG/0cjMZavElVrkk1g=","netsTxnStatus":"0","netsTxnMsg":"Successful"}}
+2018-07-16 16:29:11,639 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 16:29:16,360 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:29:16,361 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:29:16,780 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:29:16,915 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:29:16,917 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:29:16,926 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:29:16,926 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:29:17,087 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:29:17,088 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:29:17,089 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:48:42,152 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 16:48:47,011 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:48:47,012 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:48:47,458 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:48:47,525 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:48:47,528 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 16:48:47,542 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 16:48:47,542 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 16:48:47,687 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 16:48:47,687 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 16:48:47,689 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 17:14:09,390 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 17:14:13,950 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 17:14:13,950 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 17:14:14,634 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 17:14:14,715 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 17:14:14,718 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 17:14:14,727 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 17:14:14,728 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 17:14:14,885 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 17:14:14,885 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 17:14:14,886 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 17:15:36,622 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 17:15:41,303 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 17:15:41,312 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 17:15:41,765 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 17:15:41,844 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 17:15:41,848 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 17:15:41,860 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 17:15:41,860 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 17:15:42,000 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 17:15:42,001 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 17:15:42,001 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 17:20:12,324 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 17:20:16,937 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 17:20:16,937 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 17:20:17,347 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 17:20:17,431 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 17:20:17,433 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 17:20:17,443 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 17:20:17,443 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 17:20:17,583 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 17:20:17,584 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 17:20:17,585 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 18:17:02,417 # INFO  # Application                   : Starting executing springBoot.....
+2018-07-16 18:17:06,906 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 18:17:06,906 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 18:17:07,330 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 18:17:07,489 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 18:17:07,491 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
+2018-07-16 18:17:07,502 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
+2018-07-16 18:17:07,503 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
+2018-07-16 18:17:07,647 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
+2018-07-16 18:17:07,648 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
+2018-07-16 18:17:07,649 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl

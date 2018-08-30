@@ -1,0 +1,63 @@
+.divborder{
+border-width:2px;
+border-style:solid;
+border-color:black;
+background-color: #F6D2D2;
+}
+
+.table_cnt{
+	table-layout: fixed;
+    overflow: hidden;
+    width: 50%
+}
+
+h1{
+	font-family: inherit;
+    padding-left: 27%;
+    /* font-size: 50%; */
+    font-size: 13pt;
+   /*  text-align: center; */
+}
+.wordwrap{
+word-wrap: break-word;max-width:50px; 
+text-align-last: right;
+}
+
+.tab_content {
+    border: 1px solid #6996c8;
+    background: #c4d5e7;
+    border-top: 0;
+    padding: 5px;
+}
+
+.content {
+    width: 1036px;
+    margin: 0 auto;
+    max-height: 100%;
+}
+
+.blue_title {
+    margin-top: 10px;
+    background: #f3f7fb;
+    border: 1px solid #c4d5e7;
+    padding: 5px;
+}
+
+body{
+background-image: url("enetslogo.png");
+}
+
+.ct_bg {
+    background: #fff;
+}
+.clearfix {
+    display: block;
+}
+.clearfix {
+    zoom: 1;
+}
+.divstyle{
+	font-family: Georgia, serif;
+	padding-left: 8%;
+	font-size: 50%;
+}

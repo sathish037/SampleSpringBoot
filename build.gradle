@@ -1,0 +1,152 @@
+/*
+ * Copyright (C) 2000-2016 MVI Technologies (S) Pte Ltd. All Rights Reserved.
+ *
+ * This software is the proprietary information of MVI Technologies (S) Pte Ltd. Use is subject to
+ * license terms.
+ *  
+ */
+ 
+ /*
+  *  @author     Sathish
+  *  @created    20-Apr-2018 , 13:33:30 pm IST
+  *  @version    1.0
+  *  @desc       Build and compile java related files and generated the war file.
+  */
+
+/*
+ * supply the plugin that are required for run.
+ */
+apply plugin: 'war'
+apply plugin: 'spring-boot'
+apply plugin: 'io.spring.dependency-management'
+apply plugin: "findbugs"
+apply plugin: "pmd"
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'application'
+
+
+project.ext.vendor     = "MVI Technologies (S) Pte Ltd"
+project.ext.implVer    = "1.0"
+project.ext.timestamp  = new Date().format('yyyyMMdd_HHmmss')
+project.ext.createdBy  = "${System.getProperty('java.version')} (${System.getProperty('java.vm.name')})"
+project.ext.builtWith  = "gradle-${project.getGradle().getGradleVersion()}, groovy-${GroovySystem.getVersion()}"
+
+/*
+ * Generates the .class files depend on given JRE version.
+ */
+sourceCompatibility=1.7
+targetCompatibility=1.7
+
+/*
+ * enables the build support throught the maven repository,
+ * enables declaring the version of jars instantly
+ */
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.4.1.RELEASE")
+    }
+}
+
+/*
+ * extends support through maven repository
+ */
+repositories {		 
+		 mavenLocal()
+         mavenCentral()
+}
+
+/*
+ * Creates deployable 'war' file with the manifest info.
+ */
+/*war {
+    baseName = projectName
+    manifest {
+        attributes 'Implementation-Title': projectName,
+        	'Implementation-Version': projectVersion,
+        	'Main-Class': projectMainClass
+    }
+}*/
+
+
+/*
+ * Provides support during run time foe inital run creating the war.
+ */
+configurations {
+    providedRuntime
+}
+
+/*
+ * Creates the maven support, project dependencies and support 
+ * execution of .class files.
+ */
+dependencies {
+	 compile("org.springframework.boot:spring-boot-starter-web")
+	 //compile("org.springframework.boot:spring-boot-starter-thymeleaf")
+	 compile("org.springframework.boot:spring-boot-starter-actuator") 
+   	 compile group: 'log4j', name: 'log4j', version: '1.2.17'
+     compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.2' 
+     compile("org.springframework.boot:spring-boot-starter-web")
+     compile group: 'com.solacesystems', name: 'sol-jcsmp', version: '10.0.0'
+     compile group: 'com.solacesystems', name: 'sol-common', version: '10.0.0'
+     compile group: 'com.solacesystems', name: 'sol-jms', version: '10.0.0'
+     compile group: 'org.freemarker', name: 'freemarker', version: '2.3.22'
+     compile group: 'org.json', name: 'json', version: '20180130'
+     compile group: 'javax.servlet', name: 'jstl', version: '1.2'
+     providedRuntime("org.springframework.boot:spring-boot-starter-tomcat")
+     providedRuntime 'org.apache.tomcat.embed:tomcat-embed-jasper'
+     providedCompile "javax.servlet:javax.servlet-api:3.1.0"  
+     testCompile group: 'junit', name: 'junit'
+     testCompile group: 'org.springframework', name: 'spring-test', version: '5.0.5.RELEASE'
+}
+
+war {
+    baseName = projectName
+    manifest {
+        attributes 'Implementation-Title': projectName,
+        	'Implementation-Version': projectVersion,
+        	'Main-Class': projectMainClass
+    }
+}
+
+/*
+ * Enable exection of spring boot as war.
+ */
+/*bootRepackage {
+    mainClass = projectMainClass
+}*/
+
+/*
+ * Added to automatically monitor the changes that are made 
+ * in application.
+ */
+bootRun {
+    addResources = true
+}
+
+findbugs{
+    ignoreFailures=true
+    findbugsTest.enabled=false
+}
+tasks.withType(FindBugs) {
+    reports {
+        xml.enabled = false
+        html.enabled = true
+    }
+}
+tasks.withType(Pmd){
+    reports{
+        xml.enabled=true
+        html.enabled=true
+    }
+}
+pmd {
+   ignoreFailures = true
+    pmdTest.enabled=false
+}
+
+/**********************************  END OF GRADLE BUILD ******************************/
+
