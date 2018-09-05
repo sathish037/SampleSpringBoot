@@ -3,6 +3,7 @@
  */
 package mvi.upop.test;
 
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.http.MediaType;
@@ -30,7 +31,7 @@ public class UpopSimulatorControllerTest {
 	public void getHelloWorld() throws Exception {
 		MvcResult mvResult = mokmvc.perform(MockMvcRequestBuilders.get("/UpopGateway/api/test.bt").contentType(MediaType.APPLICATION_JSON)
 				).andReturn();
-		System.out.println("Success :  "+mvResult.getResponse().getContentAsString());
+		Assert.assertNotNull("Success response is not null ", mvResult.getResponse().getContentAsString());
 	}
 
 }

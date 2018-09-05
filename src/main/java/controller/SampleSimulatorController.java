@@ -10,6 +10,7 @@ import java.util.Map;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.apache.log4j.Logger;
 import org.springframework.http.ResponseEntity;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -25,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = "/UpopGateway/api")
 public class SampleSimulatorController {
 	
-	
+	private static Logger logger = Logger.getLogger(SampleSimulatorController.class);
 	/**
 	 * For developer testing purpose. WARN: Does not support any part, in the
 	 * application process.
@@ -38,6 +39,7 @@ public class SampleSimulatorController {
 		List<String> value = new ArrayList<>();
 		value.add("MVI");
 		value.add("Employee");
+		logger.info("Respomnse message constructed done "+value);
 		return value.toString();
 	}
 	
