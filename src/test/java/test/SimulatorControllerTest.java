@@ -1,7 +1,7 @@
 /**
  * 
  */
-package mvi.upop.test;
+package test;
 
 import org.junit.Assert;
 import org.junit.Before;
@@ -18,7 +18,7 @@ import controller.SampleSimulatorController;
  * @author Sathish Kumar V
  *
  */
-public class UpopSimulatorControllerTest {
+public class SimulatorControllerTest {
 	
 	private MockMvc mokmvc;
 	

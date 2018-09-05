@@ -45,6 +45,7 @@ public class SampleSimulatorController {
 	
 	@RequestMapping(value = "/welcome.bt", method = RequestMethod.GET)
 	public String getwelcome() throws Exception {
+		logger.info("welcome page will invoke properly");
 		return "welcome";
 	}
 	

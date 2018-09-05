@@ -1,13 +1,6 @@
-2018-08-30 12:29:45,594 # INFO  # Application                   : Starting executing springBoot.....
-2018-08-30 12:29:50,816 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
-2018-08-30 12:29:50,817 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
-2018-08-30 12:30:15,137 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
-2018-08-30 12:30:15,226 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
-2018-08-30 12:30:15,232 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
-2018-08-30 12:30:15,242 # INFO  # UpopTxnEndMsgController       : Solace mq: connFact created
-2018-08-30 12:30:15,246 # INFO  # UpopTxnEndMsgController       : Solace IpAddress 192.168.0.65 SolaceVpnName : D101, mqSndQNameFrontEnd : FEH1_IND.RQ.FROM.FE, mqRcvTopicName D101/G/A/LOC/RES/TRX/MDFEH01_IND/PAY/PAYADVICE/D1/V1/ENETS/SPLUS/FE01/1, mqRcvQNameFrontEnd : FEH1_IND.RS.TO.FE, mqSndQNameBackEnd : FEH1_IND.RQ.FROM.FE, mqRcvQNameBackEnd : FEH1_IND.RS.TO.FE
-2018-08-30 12:30:39,296 # INFO  # UpopTxnEndMsgController       : Solace mq: connected
-2018-08-30 12:30:39,298 # INFO  # UpopTxnEndMsgController       : getAbsolutePathC:\upop_ftl
-2018-08-30 12:30:39,300 # INFO  # UpopTxnEndMsgController       : Loaded Freemarker config on C:\upop_ftl
-2018-08-30 12:31:12,384 # INFO  # Version                       : HV000001: Hibernate Validator 5.2.4.Final
-2018-08-30 15:42:59,100 # INFO  # Application                   : Starting executing springBoot.....
+2018-09-05 10:59:31,649 # INFO  # Version                       : HV000001: Hibernate Validator 5.2.4.Final
+2018-09-05 11:07:31,166 # INFO  # Version                       : HV000001: Hibernate Validator 5.2.4.Final
+2018-09-05 11:07:31,413 # INFO  # SampleSimulatorController     : Respomnse message constructed done [MVI, Employee]
+2018-09-05 11:19:56,655 # INFO  # Version                       : HV000001: Hibernate Validator 5.2.4.Final
+2018-09-05 11:19:56,987 # INFO  # SampleSimulatorController     : Respomnse message constructed done [MVI, Employee]
+2018-09-05 11:26:20,450 # INFO  # Application                   : Starting executing springBoot.....
