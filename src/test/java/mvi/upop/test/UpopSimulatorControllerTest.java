@@ -33,5 +33,12 @@ public class UpopSimulatorControllerTest {
 				).andReturn();
 		Assert.assertNotNull("Success response is not null ", mvResult.getResponse().getContentAsString());
 	}
+	
+	@Test
+	public void getWelcome() throws Exception {
+		MvcResult mvResult = mokmvc.perform(MockMvcRequestBuilders.get("/UpopGateway/api/welcome.bt").contentType(MediaType.APPLICATION_JSON)
+				).andReturn();
+		Assert.assertNotNull("Success response is not null ", mvResult.getResponse().getContentAsString());
+	}
 
 }

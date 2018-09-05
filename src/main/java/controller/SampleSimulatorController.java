@@ -44,7 +44,7 @@ public class SampleSimulatorController {
 	}
 	
 	@RequestMapping(value = "/welcome.bt", method = RequestMethod.GET)
-	public String getwelcom() throws Exception {
+	public String getwelcome() throws Exception {
 		return "welcome";
 	}
 	
